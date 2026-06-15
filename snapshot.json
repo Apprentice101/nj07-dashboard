@@ -1,0 +1,953 @@
+{
+  "version": "1",
+  "dataAsOf": "2026-06-11",
+  "updatedAt": "2026-06-11T19:45:00Z",
+  "exportedAt": "2026-06-12T19:05:45.323Z",
+  "districtCode": "NJ-07",
+  "data": {
+    "DISTRICT": {
+      "id": "nj-07",
+      "districtNumber": "NJ-07",
+      "districtName": "New Jersey's 7th Congressional District",
+      "state": "New Jersey",
+      "counties": [
+        "Hunterdon (full)",
+        "Warren (full)",
+        "Somerset (partial)",
+        "Union (partial)",
+        "Morris (partial)",
+        "Sussex (partial)"
+      ],
+      "majorPlaces": [
+        "Westfield",
+        "Flemington",
+        "Phillipsburg",
+        "Somerville",
+        "Morristown",
+        "Newton"
+      ],
+      "cycleYear": 2026,
+      "population": 760000,
+      "registeredVoters": 635000,
+      "partyRegistration": [
+        {
+          "label": "Republican",
+          "count": 215000,
+          "pct": 33.9
+        },
+        {
+          "label": "Democratic",
+          "count": 205000,
+          "pct": 32.3
+        },
+        {
+          "label": "Unaffiliated",
+          "count": 195000,
+          "pct": 30.7
+        },
+        {
+          "label": "Other",
+          "count": 20000,
+          "pct": 3.1
+        }
+      ],
+      "previousResult": {
+        "year": 2024,
+        "seat": "U.S. House — NJ-07",
+        "winner": {
+          "name": "Tom Kean Jr. (R)",
+          "pct": 52.7,
+          "votes": 158000
+        },
+        "runnerUp": {
+          "name": "Sue Altman (D)",
+          "pct": 47.3,
+          "votes": 142000
+        },
+        "turnoutPct": 62
+      }
+    },
+    "SOURCES": {
+      "src-nj-sos-elections": {
+        "id": "src-nj-sos-elections",
+        "name": "NJ Division of Elections — Secretary of State",
+        "short": "NJ SOS Elections",
+        "url": "https://www.nj.gov/state/elections/",
+        "publisher": "New Jersey Department of State, Division of Elections",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-06-11",
+        "confidence": "high",
+        "notes": "Lt. Gov. Dr. Dale G. Caldwell is Secretary of State as of January 2026. Official voter portal: vote.nj.gov."
+      },
+      "src-nj-vote-portal": {
+        "id": "src-nj-vote-portal",
+        "name": "vote.nj.gov — New Jersey Official Voter Portal",
+        "short": "NJ Voter Portal",
+        "url": "https://vote.nj.gov",
+        "publisher": "New Jersey Division of Elections",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-06-11",
+        "confidence": "high"
+      },
+      "src-nj-stat-19": {
+        "id": "src-nj-stat-19",
+        "name": "New Jersey Statutes — Title 19 (Elections)",
+        "short": "N.J.S.A. Title 19",
+        "url": "https://www.njleg.state.nj.us/Bills/Browse",
+        "publisher": "New Jersey Legislature",
+        "sourceType": "statutory",
+        "hierarchyLevel": 3,
+        "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-06-11",
+        "confidence": "high",
+        "notes": "Includes P.L.2025, c.32 (office-block ballot law) and S1636 (SAVR, effective Jan 12, 2026)."
+      },
+      "src-hunterdon-clerk": {
+        "id": "src-hunterdon-clerk",
+        "name": "Hunterdon County Clerk — Elections",
+        "short": "Hunterdon Clerk",
+        "url": "https://www.co.hunterdon.nj.us/countyclerk.htm",
+        "publisher": "Hunterdon County Clerk",
+        "sourceType": "official-county",
+        "hierarchyLevel": 2,
+        "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-06-11",
+        "confidence": "high"
+      },
+      "src-warren-clerk": {
+        "id": "src-warren-clerk",
+        "name": "Warren County Clerk — Elections",
+        "short": "Warren Clerk",
+        "url": "https://www.co.warren.nj.us/countyclerk/",
+        "publisher": "Warren County Clerk",
+        "sourceType": "official-county",
+        "hierarchyLevel": 2,
+        "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-06-11",
+        "confidence": "high"
+      },
+      "src-union-clerk": {
+        "id": "src-union-clerk",
+        "name": "Union County Board of Elections (unioncountyvotes.com)",
+        "short": "Union County Elections",
+        "url": "https://unioncountyvotes.com",
+        "publisher": "Union County Board of Elections",
+        "sourceType": "official-county",
+        "hierarchyLevel": 2,
+        "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-06-11",
+        "confidence": "high",
+        "notes": "Union County covers the largest share of NJ-07 registered voters. Additional county site: ucnj.org."
+      },
+      "src-somerset-clerk": {
+        "id": "src-somerset-clerk",
+        "name": "Somerset County Clerk — Elections",
+        "short": "Somerset Clerk",
+        "url": "https://www.co.somerset.nj.us/government/elected-officials/county-clerk",
+        "publisher": "Somerset County Clerk",
+        "sourceType": "official-county",
+        "hierarchyLevel": 2,
+        "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-06-11",
+        "confidence": "high"
+      },
+      "src-morris-clerk": {
+        "id": "src-morris-clerk",
+        "name": "Morris County Clerk — Elections",
+        "short": "Morris Clerk",
+        "url": "https://www.morriscountynj.gov/Departments/County-Clerk",
+        "publisher": "Morris County Clerk",
+        "sourceType": "official-county",
+        "hierarchyLevel": 2,
+        "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-06-11",
+        "confidence": "high"
+      },
+      "src-sussex-clerk": {
+        "id": "src-sussex-clerk",
+        "name": "Sussex County Clerk — Elections",
+        "short": "Sussex Clerk",
+        "url": "https://www.sussexcountynj.gov/county-clerk/",
+        "publisher": "Sussex County Clerk",
+        "sourceType": "official-county",
+        "hierarchyLevel": 2,
+        "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-06-11",
+        "confidence": "high"
+      },
+      "src-ballotpedia-nj07": {
+        "id": "src-ballotpedia-nj07",
+        "name": "Ballotpedia — New Jersey's 7th Congressional District election, 2026",
+        "short": "Ballotpedia NJ-07",
+        "url": "https://ballotpedia.org/New_Jersey%27s_7th_Congressional_District_election,_2026",
+        "publisher": "Ballotpedia",
+        "sourceType": "secondary",
+        "hierarchyLevel": 4,
+        "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-06-11",
+        "confidence": "high"
+      },
+      "src-njcom": {
+        "id": "src-njcom",
+        "name": "NJ.com / The Star-Ledger — NJ-07 coverage",
+        "short": "NJ.com",
+        "url": "https://www.nj.com/",
+        "publisher": "NJ Advance Media / The Star-Ledger",
+        "sourceType": "news",
+        "hierarchyLevel": 4,
+        "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-06-11",
+        "confidence": "high"
+      },
+      "src-politico-nj": {
+        "id": "src-politico-nj",
+        "name": "Politico NJ Playbook — NJ elections & politics",
+        "short": "Politico NJ",
+        "url": "https://www.politico.com/newsletters/new-jersey-playbook",
+        "publisher": "POLITICO",
+        "sourceType": "news",
+        "hierarchyLevel": 4,
+        "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-06-11",
+        "confidence": "high"
+      },
+      "src-whyy": {
+        "id": "src-whyy",
+        "name": "WHYY / NPR — NJ political coverage",
+        "short": "WHYY",
+        "url": "https://whyy.org/",
+        "publisher": "WHYY (Philadelphia/NJ NPR affiliate)",
+        "sourceType": "news",
+        "hierarchyLevel": 4,
+        "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-06-11",
+        "confidence": "high"
+      }
+    },
+    "ELECTION_EVENTS": [
+      {
+        "id": "evt-nj07-primary-party-change-deadline",
+        "milestone": "Party affiliation change deadline — primary",
+        "electionType": "primary",
+        "date": "2026-04-08",
+        "significance": "Deadline to change party affiliation before the June 2 primary (55 days prior). Unaffiliated voters who declared a party by this date were eligible to vote in the June 2 closed primary.",
+        "governingAuthority": "New Jersey Division of Elections",
+        "sourceIds": [
+          "src-nj-sos-elections",
+          "src-nj-stat-19"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-nj07-primary-mail-app-deadline",
+        "milestone": "Mail-in ballot application deadline — primary",
+        "electionType": "primary",
+        "date": "2026-05-26",
+        "significance": "Last day to submit an online or mail application for a vote-by-mail ballot for the June 2, 2026 primary (7 days before election day). In-person applications accepted at county clerk through June 2.",
+        "governingAuthority": "New Jersey Division of Elections",
+        "sourceIds": [
+          "src-nj-sos-elections",
+          "src-nj-stat-19"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-nj07-primary-early-start",
+        "milestone": "In-person early voting begins — primary",
+        "electionType": "primary",
+        "date": "2026-05-26",
+        "significance": "New Jersey's 9-day in-person early voting period begins. For the June 2 primary, early voting ran May 26–June 1 at designated sites in each of NJ-07's six counties (Hunterdon, Warren, Somerset, Union, Morris, Sussex).",
+        "governingAuthority": "New Jersey Division of Elections / County Clerks",
+        "sourceIds": [
+          "src-nj-sos-elections",
+          "src-union-clerk",
+          "src-nj-stat-19"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-nj07-primary-early-end",
+        "milestone": "In-person early voting ends — primary",
+        "electionType": "primary",
+        "date": "2026-06-01",
+        "significance": "Last day of in-person early voting for the June 2 primary (day before Election Day). Voters who early-voted in person cannot also vote on Election Day.",
+        "governingAuthority": "New Jersey Division of Elections / County Clerks",
+        "sourceIds": [
+          "src-nj-sos-elections",
+          "src-union-clerk"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-nj07-primary-day",
+        "milestone": "Primary election day",
+        "electionType": "primary",
+        "date": "2026-06-02",
+        "significance": "New Jersey closed primary. Polls open 6 AM – 8 PM. NJ-07 D result: Rebecca Bennett ~46% (approx. 25,600 votes), defeating Tina Shah, Brian Varela, and Michael Roth by ~25 points. Tom Kean Jr. ran unopposed in Republican primary.",
+        "governingAuthority": "New Jersey Division of Elections",
+        "sourceIds": [
+          "src-nj-sos-elections",
+          "src-ballotpedia-nj07",
+          "src-whyy"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-nj07-primary-vbm-receipt-deadline",
+        "milestone": "Mail ballot receipt deadline — primary",
+        "electionType": "primary",
+        "date": "2026-06-08",
+        "significance": "Mail-in ballots postmarked by 8 PM on Election Day (June 2) must be received by county Board of Elections by June 8, 2026 (6 days after election day) to be counted.",
+        "governingAuthority": "NJ County Boards of Elections",
+        "sourceIds": [
+          "src-nj-sos-elections",
+          "src-nj-stat-19"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-nj07-primary-cure-deadline",
+        "milestone": "Mail ballot signature cure deadline — primary",
+        "electionType": "primary",
+        "date": "2026-06-10",
+        "significance": "Voters whose primary mail-in ballots were rejected for missing or discrepant signatures must be notified within 24 hours; cure form must be returned to county Board of Elections no later than 48 hours before final certification of primary results.",
+        "governingAuthority": "NJ County Boards of Elections",
+        "sourceIds": [
+          "src-nj-sos-elections",
+          "src-nj-stat-19"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-nj07-primary-canvass-deadline",
+        "milestone": "County canvass certification deadline — primary",
+        "electionType": "primary",
+        "date": "2026-07-02",
+        "significance": "New Jersey county boards must complete the official canvass and certify primary results within 30 days of election day. Covers all NJ-07 counties: Hunterdon, Warren, Somerset, Union, Morris, Sussex.",
+        "governingAuthority": "NJ County Boards of Elections / Division of Elections",
+        "sourceIds": [
+          "src-nj-sos-elections",
+          "src-nj-stat-19"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-nj07-general-reg-deadline",
+        "milestone": "Voter registration deadline — general",
+        "electionType": "general",
+        "date": "2026-10-13",
+        "significance": "Standard registration deadline is 21 days before election day (October 13, 2026) for the November 3 general election. Online registration at vote.nj.gov. Automatic voter registration (SAVR) active at NJ MVC since January 12, 2026.",
+        "governingAuthority": "New Jersey Division of Elections",
+        "sourceIds": [
+          "src-nj-sos-elections",
+          "src-nj-vote-portal",
+          "src-nj-stat-19"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-nj07-general-mail-app-start",
+        "milestone": "Vote-by-mail applications available — general",
+        "electionType": "general",
+        "date": "2026-09-01",
+        "significance": "Eligible voters may begin applying for vote-by-mail ballots online at vote.nj.gov. No-excuse mail-in voting: any registered voter in NJ-07 may apply. Online application portal available as of January 1, 2026.",
+        "governingAuthority": "New Jersey Division of Elections",
+        "sourceIds": [
+          "src-nj-sos-elections",
+          "src-nj-vote-portal"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-nj07-general-mail-app-deadline",
+        "milestone": "Mail-in ballot application deadline — general",
+        "electionType": "general",
+        "date": "2026-10-27",
+        "significance": "Last day to submit an online or mail application for a vote-by-mail ballot for the general election (7 days before election day). In-person applications accepted at county clerk through Election Day.",
+        "governingAuthority": "New Jersey Division of Elections",
+        "sourceIds": [
+          "src-nj-sos-elections",
+          "src-nj-stat-19"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-nj07-general-early-start",
+        "milestone": "In-person early voting begins — general",
+        "electionType": "general",
+        "date": "2026-10-24",
+        "significance": "New Jersey's 9-day in-person early voting period opens for the general election (October 24–November 1). Each of NJ-07's six counties (Hunterdon, Warren, Somerset, Union, Morris, Sussex) operates designated early voting sites. Exact locations published by each county clerk.",
+        "governingAuthority": "NJ County Clerks / Division of Elections",
+        "sourceIds": [
+          "src-nj-sos-elections",
+          "src-union-clerk",
+          "src-hunterdon-clerk"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-nj07-general-early-end",
+        "milestone": "In-person early voting ends — general",
+        "electionType": "general",
+        "date": "2026-11-01",
+        "significance": "Last day of 9-day in-person early voting for the general election (day before Election Day). Voters who early-voted in person cannot also vote on Election Day.",
+        "governingAuthority": "NJ County Clerks / Division of Elections",
+        "sourceIds": [
+          "src-nj-sos-elections",
+          "src-nj-stat-19"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-nj07-general-day",
+        "milestone": "General election day",
+        "electionType": "general",
+        "date": "2026-11-03",
+        "significance": "U.S. midterm general election. NJ-07: Tom Kean Jr. (R, incumbent) vs. Rebecca Bennett (D). Polls open 6 AM – 8 PM. Cook Political Report: Toss Up. Voters who arrive before 8 PM must be allowed to vote.",
+        "governingAuthority": "New Jersey Division of Elections",
+        "sourceIds": [
+          "src-nj-sos-elections",
+          "src-ballotpedia-nj07"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-nj07-general-vbm-postmark",
+        "milestone": "Mail ballot postmark deadline — general",
+        "electionType": "general",
+        "date": "2026-11-03",
+        "significance": "Mail-in ballots must be postmarked by 8 PM on Election Day (November 3). Ballots may also be deposited in official drop boxes (one per county clerk office, plus municipal drop boxes) by 8 PM on Election Day.",
+        "governingAuthority": "NJ County Boards of Elections",
+        "sourceIds": [
+          "src-nj-sos-elections",
+          "src-nj-stat-19"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-nj07-general-vbm-receipt-deadline",
+        "milestone": "Mail ballot receipt deadline — general",
+        "electionType": "general",
+        "date": "2026-11-09",
+        "significance": "Mail-in ballots postmarked by 8 PM Election Day (November 3) must be received by the county Board of Elections by November 9, 2026 (6 days after election day) to be counted.",
+        "governingAuthority": "NJ County Boards of Elections",
+        "sourceIds": [
+          "src-nj-sos-elections",
+          "src-nj-stat-19"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-nj07-general-cure-deadline",
+        "milestone": "Mail ballot signature cure deadline — general",
+        "electionType": "general",
+        "date": "2026-11-18",
+        "significance": "Voters whose general election mail-in ballots were rejected for missing or discrepant signatures must be notified within 24 hours. Cure form must be returned to county Board of Elections no later than 48 hours before final certification of results.",
+        "governingAuthority": "NJ County Boards of Elections",
+        "sourceIds": [
+          "src-nj-sos-elections",
+          "src-nj-stat-19"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-nj07-general-canvass-deadline",
+        "milestone": "County canvass certification deadline — general",
+        "electionType": "general",
+        "date": "2026-12-03",
+        "significance": "NJ county boards must complete the official canvass and certify general election results within 30 days of election day. In close NJ-07 races, provisional and late-arriving mail ballots may shift unofficial results during this window.",
+        "governingAuthority": "NJ County Boards of Elections / Division of Elections",
+        "sourceIds": [
+          "src-nj-sos-elections",
+          "src-nj-stat-19"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      }
+    ],
+    "RULES": [
+      {
+        "id": "rule-nj-vbm-no-excuse",
+        "topic": "No-excuse vote-by-mail",
+        "currentRule": "Any registered New Jersey voter may request a mail-in ballot without providing a reason. Applications can be submitted online (vote.nj.gov), by mail, or in person at the county clerk's office. Online application available as of January 1, 2026.",
+        "status": "active",
+        "whyItMatters": "All registered voters in NJ-07's six counties (Hunterdon, Warren, Somerset, Union, Morris, Sussex) may vote by mail. No justification required.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-nj-sos-elections",
+          "src-nj-stat-19"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "needsReview": true,
+        "detail": "N.J.S.A. 19:63. Mail-in ballot applications accepted up to 7 days before election by mail/online, or through Election Day in person at county clerk."
+      },
+      {
+        "id": "rule-nj-early-voting",
+        "topic": "In-person early voting (9 days)",
+        "currentRule": "New Jersey provides 9 days of in-person early voting before each primary and general election. For the 2026 general, early voting runs October 24 through November 1 at designated sites in each county. Voters may use any early voting site within their county.",
+        "status": "active",
+        "whyItMatters": "NJ-07 spans six counties, each with its own early voting sites. Voters should confirm their county's locations at vote.nj.gov or their county clerk's website before the early voting window opens.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-nj-sos-elections",
+          "src-nj-stat-19",
+          "src-union-clerk"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "needsReview": true,
+        "detail": "P.L.2021, c.441. Hours typically 10 AM–8 PM weekdays and variable on weekends; verify with county clerk. Union County had 10 sites for the June 2026 primary."
+      },
+      {
+        "id": "rule-nj-avr-savr",
+        "topic": "Automatic Voter Registration (SAVR)",
+        "currentRule": "New Jersey's Secure Automatic Voter Registration (SAVR, S1636) took effect January 12, 2026. Eligible citizens conducting Real ID or driver's license transactions at NJ Motor Vehicle Commission are automatically registered to vote unless they opt out. AVR also active at certain other state agencies.",
+        "status": "active",
+        "whyItMatters": "Voters in NJ-07's six counties who recently transacted at NJ MVC may already be registered through SAVR without having proactively registered. Verify status at vote.nj.gov.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-nj-sos-elections",
+          "src-nj-stat-19"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "needsReview": true,
+        "detail": "Signed by Gov. Murphy January 12, 2026 (S1636). Opt-out available at MVC transaction. Check voter registration status at vote.nj.gov."
+      },
+      {
+        "id": "rule-nj-registration-deadline",
+        "topic": "Voter registration deadline",
+        "currentRule": "Standard voter registration deadline is 21 days before the election. For the 2026 general election: October 13, 2026. Register online at vote.nj.gov, by mail, or in person at the county clerk or motor vehicle office. SAVR may have auto-registered recent MVC customers.",
+        "status": "active",
+        "whyItMatters": "Voters in NJ-07 who are not registered or whose address has changed must update by October 13 to participate in the November 3 general election.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-nj-sos-elections",
+          "src-nj-vote-portal",
+          "src-nj-stat-19"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "needsReview": true,
+        "detail": "N.J.S.A. 19:31-6. No same-day registration in New Jersey; the 21-day deadline is firm. Address updates also subject to the same deadline for general purposes."
+      },
+      {
+        "id": "rule-nj-closed-primary",
+        "topic": "Closed primary — party affiliation requirement",
+        "currentRule": "New Jersey uses a closed primary: only registered Democrats may vote in the Democratic primary; only registered Republicans in the Republican primary. Unaffiliated voters may participate by declaring a party affiliation. The deadline to change or declare party affiliation is 55 days before the primary (April 8, 2026 for the June 2 primary).",
+        "status": "active",
+        "whyItMatters": "NJ-07 voters who are registered as unaffiliated and did not declare a party by April 8, 2026 were ineligible to vote in the June 2 Democratic or Republican primary.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-nj-sos-elections",
+          "src-nj-stat-19"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "needsReview": true,
+        "detail": "N.J.S.A. 19:23-45. Party change deadline is 55 days before primary. For the 2026 general, party affiliation does not restrict ballot access."
+      },
+      {
+        "id": "rule-nj-drop-boxes",
+        "topic": "Official ballot drop boxes",
+        "currentRule": "New Jersey requires at least one secure ballot drop box at each county clerk's office. Counties may provide additional municipal drop boxes. In Union County, drop boxes are available at one per municipality, collected by bipartisan teams with police escort. Drop boxes are available through 8 PM on Election Day.",
+        "status": "active",
+        "whyItMatters": "NJ-07 voters in all six counties (Hunterdon, Warren, Somerset, Union, Morris, Sussex) may return mail-in ballots via official drop boxes. Voters returning ballots in person to the Board of Elections must present a valid NJ-issued ID.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-nj-sos-elections",
+          "src-union-clerk",
+          "src-nj-stat-19"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "needsReview": true,
+        "detail": "N.J.S.A. 19:63-19. Drop box locations published by each county clerk. Cannot return mail-in ballots to a polling place (must go to Board of Elections or drop box)."
+      },
+      {
+        "id": "rule-nj-signature-cure",
+        "topic": "Mail ballot signature cure",
+        "currentRule": "If a mail-in ballot is rejected for a missing or discrepant signature, the county Board of Elections must notify the voter within 24 hours. The voter may cure the defect by returning the cure form to the county Board of Elections no later than 48 hours before final certification of results.",
+        "status": "active",
+        "whyItMatters": "NJ-07 voters who return mail-in ballots with signature issues have a limited cure window. Voters should monitor any mail from their county Board of Elections after submitting a mail ballot.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-nj-sos-elections",
+          "src-nj-stat-19"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "needsReview": true,
+        "detail": "N.J.S.A. 19:63-17. Notification must come within 24 hours of rejection. Cure deadline is 48 hours before final certification — verify exact date with county Board of Elections."
+      },
+      {
+        "id": "rule-nj-provisional-ballots",
+        "topic": "Provisional ballots",
+        "currentRule": "A voter whose registration cannot be confirmed at the polls must be offered a provisional ballot. Provisional ballots are reviewed by the county Board of Elections during the canvass (within 30 days of election day). Voters can confirm their provisional ballot status at vote.nj.gov.",
+        "status": "active",
+        "whyItMatters": "Voters in NJ-07's six counties who are flagged at the polls — e.g., recently moved, changed party, or not on rolls — may cast a provisional ballot. Results in close NJ-07 races may shift during the canvass as provisionals are resolved.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-nj-sos-elections",
+          "src-nj-stat-19"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "needsReview": true,
+        "detail": "N.J.S.A. 19:53C. Provisional ballot also issued if voter requested mail-in ballot but appears in person. Voter must affirm they have not already voted."
+      },
+      {
+        "id": "rule-nj-ballot-design-pl2025c32",
+        "topic": "Office-block ballot format — P.L.2025, c.32",
+        "currentRule": "P.L.2025, c.32 (signed March 6, 2025) mandates office-block ballot format for all New Jersey primary ballots, abolishing the 'county-line' system struck down in Kim v. Hanlon. County clerks retain discretion over ballot orientation (landscape vs. portrait), position label style, and other formatting details.",
+        "status": "active",
+        "whyItMatters": "NJ-07 spans six counties, each with its own county clerk responsible for ballot design. Even under the mandatory office-block law, county clerks retain enough formatting latitude that voters in different parts of the district may see differently formatted primary ballots — potentially affecting positional advantages for party-endorsed candidates.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-nj-sos-elections",
+          "src-nj-stat-19",
+          "src-politico-nj"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "needsReview": true,
+        "detail": "P.L.2025, c.32 (N.J.S.A. 19:14). Kim v. Hanlon (D.N.J. 2024) struck county-line system. The NJ Division of Elections issued a 2026 Primary Ballot Design Guide (May 12, 2026) confirming county clerk discretion. An Impact Report is due within 180 days of the second post-enactment primary."
+      },
+      {
+        "id": "rule-nj-polling-hours",
+        "topic": "Polling hours and late-arriving voters",
+        "currentRule": "New Jersey polling places are open 6 AM – 8 PM on Election Day. Any voter who is in line at the polling place by 8 PM must be allowed to vote. Paper ballots are used in most NJ-07 counties; some use ballot marking devices (BMD) — varies by county.",
+        "status": "active",
+        "whyItMatters": "In-person voters in NJ-07's six counties should plan to arrive before 8 PM. Ballot marking devices may be available for accessibility; confirm with your county clerk.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-nj-sos-elections",
+          "src-nj-stat-19"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "needsReview": true,
+        "detail": "N.J.S.A. 19:15-2. NJ uses paper ballots with optical scanners in most counties; some also deploy BMDs for voters with disabilities. Confirm your county's equipment at the county clerk website."
+      },
+      {
+        "id": "rule-nj-id-requirements",
+        "topic": "Voter ID requirements",
+        "currentRule": "New Jersey does not require registered voters to show photo ID at the polls. First-time voters who registered by mail and did not provide a driver's license number or last four digits of SSN must provide one form of ID (photo ID or utility bill, bank statement, or government document showing name and address). All voters may be asked to state their name and address.",
+        "status": "active",
+        "whyItMatters": "Most registered voters in NJ-07 will not need to present ID at the polls. Voters returning mail-in ballots in person to the Board of Elections must present a valid NJ-issued ID.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-nj-sos-elections",
+          "src-nj-stat-19"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "needsReview": true,
+        "detail": "N.J.S.A. 19:15-17. Federal HAVA requirement applies to certain first-time voters. ID required when returning mail-in ballot in person to Board of Elections."
+      },
+      {
+        "id": "rule-nj-canvass-certification",
+        "topic": "Canvass and certification timeline",
+        "currentRule": "New Jersey county boards of elections have 30 days after election day to complete the official canvass and certify results. For the 2026 general election, county certification is due approximately December 3, 2026. Provisional and late-arriving mail ballots are counted during this period.",
+        "status": "active",
+        "whyItMatters": "NJ-07 is a Toss Up race. Official results are not final until all six county canvasses are complete. Provisional and mail ballots counted during the 30-day window may alter the informal Election Night result.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-nj-sos-elections",
+          "src-nj-stat-19"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "needsReview": true,
+        "detail": "N.J.S.A. 19:53C-15. All six NJ-07 county boards must certify independently. Statewide certification follows."
+      }
+    ],
+    "RESOURCES": [
+      {
+        "id": "res-nj-sos-elections",
+        "label": "NJ Division of Elections — Official state portal",
+        "url": "https://www.nj.gov/state/elections/",
+        "description": "Official New Jersey elections hub: voter registration, election calendar, mail-in ballot information, and voting rules. Authoritative source for NJ-07 election deadlines. Overseen by Secretary of State Lt. Gov. Dr. Dale G. Caldwell.",
+        "governingAuthority": "New Jersey Division of Elections",
+        "sourceType": "official-state",
+        "sourceId": "src-nj-sos-elections",
+        "lastVerified": "2026-06-11"
+      },
+      {
+        "id": "res-nj-vote-portal",
+        "label": "vote.nj.gov — NJ voter portal",
+        "url": "https://vote.nj.gov",
+        "description": "Register to vote, apply for a mail-in ballot, check your registration status, and find early voting and Election Day polling locations. Phone: 1-877-NJ-VOTER (1-877-658-6837).",
+        "governingAuthority": "New Jersey Division of Elections",
+        "sourceType": "official-state",
+        "sourceId": "src-nj-vote-portal",
+        "lastVerified": "2026-06-11"
+      },
+      {
+        "id": "res-nj-mail-ballot",
+        "label": "NJ Mail-In Ballot Application",
+        "url": "https://vote.nj.gov/Public/VBM",
+        "description": "Apply online for a no-excuse mail-in ballot. Deadline for 2026 general election: October 27, 2026 (7 days before election) online/by mail; Election Day in person at county clerk. All NJ-07 voters eligible regardless of reason.",
+        "governingAuthority": "New Jersey Division of Elections",
+        "sourceType": "official-state",
+        "sourceId": "src-nj-sos-elections",
+        "lastVerified": "2026-06-11"
+      },
+      {
+        "id": "res-union-clerk",
+        "label": "Union County Board of Elections (unioncountyvotes.com)",
+        "url": "https://unioncountyvotes.com",
+        "description": "Official elections page for Union County — the largest share of NJ-07's registered voters. Early voting sites, drop box locations, and ballot status. Phone: 908-527-4996.",
+        "governingAuthority": "Union County Board of Elections",
+        "sourceType": "official-county",
+        "sourceId": "src-union-clerk",
+        "lastVerified": "2026-06-11"
+      },
+      {
+        "id": "res-hunterdon-clerk",
+        "label": "Hunterdon County Clerk",
+        "url": "https://www.co.hunterdon.nj.us/countyclerk.htm",
+        "description": "Official elections page for Hunterdon County (fully within NJ-07). Voter registration, mail-in ballots, early voting, and polling place information. Phone: (908) 788-1214.",
+        "governingAuthority": "Hunterdon County Clerk",
+        "sourceType": "official-county",
+        "sourceId": "src-hunterdon-clerk",
+        "lastVerified": "2026-06-11"
+      },
+      {
+        "id": "res-warren-clerk",
+        "label": "Warren County Clerk",
+        "url": "https://www.co.warren.nj.us/countyclerk/",
+        "description": "Official elections page for Warren County (fully within NJ-07). Voter registration, mail-in ballot applications, and polling place lookups.",
+        "governingAuthority": "Warren County Clerk",
+        "sourceType": "official-county",
+        "sourceId": "src-warren-clerk",
+        "lastVerified": "2026-06-11"
+      },
+      {
+        "id": "res-somerset-clerk",
+        "label": "Somerset County Clerk",
+        "url": "https://www.co.somerset.nj.us/government/elected-officials/county-clerk",
+        "description": "Official elections page for Somerset County (partially within NJ-07). Voter registration, early voting site listings, and mail-in ballot information.",
+        "governingAuthority": "Somerset County Clerk",
+        "sourceType": "official-county",
+        "sourceId": "src-somerset-clerk",
+        "lastVerified": "2026-06-11"
+      },
+      {
+        "id": "res-ballotpedia-nj07",
+        "label": "Ballotpedia — NJ-07 2026 election",
+        "url": "https://ballotpedia.org/New_Jersey%27s_7th_Congressional_District_election,_2026",
+        "description": "Nonpartisan reference page for NJ-07's 2026 election: candidate profiles, primary results, race ratings (Cook Toss Up), and campaign finance summary.",
+        "governingAuthority": "Ballotpedia",
+        "sourceType": "secondary",
+        "sourceId": "src-ballotpedia-nj07",
+        "lastVerified": "2026-06-11"
+      },
+      {
+        "id": "res-nj-ballot-design-guide",
+        "label": "NJ 2026 Primary Ballot Design Guide (P.L.2025, c.32)",
+        "url": "https://www.nj.gov/state/elections/assets/pdf/guidelines/2026/2026-0512-primary-election-ballot-design-guide.pdf",
+        "description": "NJ Division of Elections guide explaining the new office-block ballot format required under P.L.2025, c.32 — and the discretion county clerks retain over orientation and label placement. Relevant to NJ-07's six-county span.",
+        "governingAuthority": "New Jersey Division of Elections",
+        "sourceType": "official-state",
+        "sourceId": "src-nj-sos-elections",
+        "lastVerified": "2026-06-11"
+      }
+    ],
+    "UPDATES": [
+      {
+        "id": "upd-nj07-001",
+        "title": "NJ-07 dashboard initialized — 13 sources, 18 events, 12 rules wired",
+        "fieldChanged": "Dashboard configuration",
+        "oldValue": "Not configured",
+        "newValue": "Initial build June 11, 2026. All 13 sources (NJ SOS, vote.nj.gov, NJ statutes Title 19, Hunterdon/Warren/Union/Somerset/Morris/Sussex county clerks, Ballotpedia, NJ.com, Politico NJ, WHYY) verified reachable. 18 election events and 12 voting rules researched from NJ SOS and N.J.S.A. Title 19, all marked needsReview/unconfirmed pending authoritative confirmation from each of NJ-07's six county clerks.",
+        "sourceIds": [
+          "src-nj-sos-elections",
+          "src-union-clerk",
+          "src-hunterdon-clerk",
+          "src-warren-clerk"
+        ],
+        "detectedAt": "2026-06-11T19:45:00Z",
+        "severity": "low",
+        "reviewState": "new",
+        "visibility": "internal_only"
+      },
+      {
+        "id": "upd-nj07-002",
+        "title": "NJ-07 primary called — Kean (R) vs Bennett (D) set for November 3 general",
+        "fieldChanged": "General election candidates",
+        "oldValue": "Primary pending (June 2, 2026)",
+        "newValue": "Tom Kean Jr. (R, incumbent) ran unopposed in the Republican primary. Rebecca Bennett (D) won the Democratic primary on June 2, 2026, with approximately 46% of the vote (~25,600 votes) — a 25-point margin over three rivals. General election: Kean vs. Bennett, November 3, 2026. Cook Political Report: Toss Up.",
+        "sourceIds": [
+          "src-ballotpedia-nj07",
+          "src-whyy",
+          "src-njcom"
+        ],
+        "detectedAt": "2026-06-03T10:00:00Z",
+        "severity": "high",
+        "reviewState": "new",
+        "visibility": "public"
+      },
+      {
+        "id": "upd-nj07-003",
+        "title": "All rules and events flagged for county-level verification across six NJ-07 counties",
+        "fieldChanged": "QA status",
+        "oldValue": "Not yet reviewed",
+        "newValue": "12 voting rules and 18 election events all marked needsReview: true, confidence: unconfirmed (lastVerified 2026-06-11). Verify with Hunterdon, Warren, Somerset, Union, Morris, and Sussex county clerks before publish. Ballot design (P.L.2025, c.32) and SAVR (S1636) are recent laws — confirm implementation with each county. Conflict conf-nj07-001 surfaced regarding six-county ballot design variation.",
+        "sourceIds": [
+          "src-nj-stat-19",
+          "src-nj-sos-elections"
+        ],
+        "detectedAt": "2026-06-11T19:45:00Z",
+        "severity": "medium",
+        "reviewState": "new",
+        "visibility": "internal_only"
+      }
+    ],
+    "CONFLICTS": [
+      {
+        "id": "conf-nj07-001",
+        "factInQuestion": "Whether P.L.2025, c.32's office-block ballot format is being applied consistently across all six NJ-07 counties, or whether county clerk formatting discretion allows quasi-county-line ballot designs that preserve positional advantages for party-endorsed candidates.",
+        "sourceAId": "src-nj-sos-elections",
+        "sourceAClaim": "The NJ Division of Elections' 2026 Primary Election Ballot Design Guide (May 12, 2026) confirms that P.L.2025, c.32 requires office-block format on all primary ballots, but county clerks retain discretion over landscape vs. portrait orientation, position label style (e.g., '1A'), and other formatting details. The law requires a formal Primary Election Ballot Design Impact Report to the Governor and Legislature within 180 days of the second post-enactment primary. Source: https://www.nj.gov/state/elections/assets/pdf/guidelines/2026/2026-0512-primary-election-ballot-design-guide.pdf",
+        "sourceBId": "src-politico-nj",
+        "sourceBClaim": "Politico NJ reported in April 2026 that Camden County Clerk Pamela Lampitt designed her 2026 primary ballot to place party-endorsed incumbent commissioners directly beneath top-of-ticket candidates — effectively recreating the positional advantage of the banned county line. The Good Government Coalition called it 'in direct defiance of Judge Quraishi's ruling'; Rutgers professor Julia Sass Rubin warned it could be a 'slippery slope' for other counties. The Camden clerk's office defended the design as compliant with state law. Source: https://www.politico.com/newsletters/new-jersey-playbook/2026/04/22/return-of-the-county-line-00886152",
+        "whyItMatters": "NJ-07 spans six counties (Hunterdon, Warren, Somerset, Union, Morris, Sussex), each with its own county clerk responsible for ballot design. Even under the mandatory office-block law, county clerks retain enough formatting discretion that voters in different parts of the district may see meaningfully different ballot layouts — potentially giving party-endorsed candidates positional advantages in some counties but not others. This uneven implementation is an active procedural ambiguity that no final judicial ruling has resolved as of the June 2026 primary. A formal impact report is not yet due, and the Division of Elections has not issued binding uniform formatting standards beyond the design guide.",
+        "suggestedReviewAction": "Obtain 2026 primary ballot samples from each of NJ-07's six county clerks (Hunterdon, Warren, Somerset, Union, Morris, Sussex) and compare formatting. Confirm whether any county used a layout resembling a county-line arrangement. If formatting disparities are found, note them in a revised conflict item and escalate to Betsy for legal review.",
+        "severity": "high",
+        "status": "unresolved",
+        "createdAt": "2026-06-11T19:45:00Z"
+      }
+    ],
+    "NEWS": [
+      {
+        "id": "news-nj07-001",
+        "headline": "Rebecca Bennett Wins Democratic Primary in NJ-07, Will Challenge Rep. Tom Kean Jr.",
+        "sourceName": "WHYY / NPR",
+        "url": "https://whyy.org/articles/new-jersey-election-2026-primary-kean-7th-district/",
+        "publishedAt": "2026-06-03",
+        "relevanceSummary": "Rebecca Bennett, a former Navy helicopter pilot and health-care technology executive, won the June 2, 2026 Democratic primary in NJ-07 by a 25-point margin, defeating three rivals to become the nominee set to face incumbent Republican Rep. Tom Kean Jr. in November. The race is widely viewed as one of the most competitive House contests in the country, with the Cook Political Report rating it a Toss Up. Kean, who ran unopposed in the Republican primary, has been absent from Congress since March 5, 2026, due to an undisclosed illness, adding uncertainty to his campaign.",
+        "tag": "ballot-access",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-002",
+        "headline": "Lt. Gov. Dr. Dale Caldwell Reminds 11th Congressional District Voters About Special Primary Election Details",
+        "sourceName": "NJ Department of State / Division of Elections",
+        "url": "https://www.nj.gov/state/press-2026-0128.shtml",
+        "publishedAt": "2026-01-28",
+        "relevanceSummary": "New Jersey's new Secretary of State, Lt. Governor Dr. Dale G. Caldwell — who replaced Tahesha Way after taking office with Gov. Mikie Sherrill in January 2026 — issued official voter-information guidance reminding NJ-11 voters of their three ways to vote: in-person on Election Day, early voting, or mail-in ballot. The press release confirms the state's continued three-pathway voting structure and serves as the definitive reference for the vote.nj.gov portal, which NJ-07 voters would also use for the 2026 primary and general elections. Caldwell, as Secretary of State, is New Jersey's chief election officer responsible for overseeing all election administration.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-003",
+        "headline": "Union County Board of Elections Reminds Voters to Plan Their Vote for the June 2 Primary Election",
+        "sourceName": "County of Union, New Jersey (Union County Board of Elections)",
+        "url": "https://ucnj.org/press-releases/public-info/2026/05/21/union-county-board-of-elections-reminds-you-to-plan-your-vote-for-the-june-2-primary-election/",
+        "publishedAt": "2026-05-21",
+        "relevanceSummary": "The Union County Board of Elections — which covers the largest share of NJ-07's registered voters — confirmed all three voting options for the June 2, 2026 primary: in-person early voting May 26–31 at 10 designated sites, Election Day voting 6 a.m.–8 p.m., and mail-in ballots returnable via secure drop boxes (one per municipality, collected by bipartisan teams with police escort) or in person to the Board of Elections. Voters returning mail-in ballots in person must present a valid NJ-issued ID. Drop box and early voting details are available at unioncountyvotes.com.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-004",
+        "headline": "New Jersey Division of Elections Releases 2026 Primary Election Ballot Design Guide Under P.L.2025, c.32",
+        "sourceName": "NJ Division of Elections (New Jersey Department of State)",
+        "url": "https://www.nj.gov/state/elections/assets/pdf/guidelines/2026/2026-0512-primary-election-ballot-design-guide.pdf",
+        "publishedAt": "2026-05-12",
+        "relevanceSummary": "The NJ Division of Elections re-issued its Primary Election Ballot Design Guide on May 12, 2026, providing updated uniform design standards for county clerks under P.L.2025, c.32, the law that abolished the county-line ballot structure and mandates office-block formatting for all primary ballots. The guide confirms that county clerks retain discretion over landscape vs. portrait orientation, left vs. right oval placement, and how they label candidate ballot draw positions (using letter-number combinations such as '1A'), meaning voters in different NJ-07 counties may see different-looking ballots for the same offices. A formal Primary Election Ballot Design Impact Report assessing county experiences is due to the Governor and Legislature within 180 days of the second primary following the law's enactment.",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-005",
+        "headline": "The Return of the County Line? Camden County Ballot Design Draws Fire Under New Office-Block Law",
+        "sourceName": "Politico NJ (POLITICO New Jersey Playbook)",
+        "url": "https://www.politico.com/newsletters/new-jersey-playbook/2026/04/22/return-of-the-county-line-00886152",
+        "publishedAt": "2026-04-22",
+        "relevanceSummary": "Politico NJ reported that Camden County Clerk Pamela Lampitt designed her 2026 primary ballot in a way that progressives say effectively recreates the banned county-line structure — placing party-endorsed incumbent commissioners directly beneath top-of-ticket candidates, giving them a positional advantage. The Good Government Coalition called the design 'in direct defiance of Judge Quraishi's ruling,' while Rutgers professor Julia Sass Rubin warned it could be a 'slippery slope' for other counties. The county clerk's office defended it as compliant with state law and the court order. The controversy is directly relevant to NJ-07 because P.L.2025, c.32 leaves county clerks significant latitude in formatting, meaning implementation variation — including alleged quasi-county-line designs — could affect ballot position advantages in any of NJ-07's six counties.",
+        "tag": "canvass",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-006",
+        "headline": "NJ.com: After 2 Months Away from Congress, Tom Kean Jr. Finally Speaks and Keeps His Secret",
+        "sourceName": "NJ.com / The Star-Ledger",
+        "url": "https://www.nj.com/politics/2026/05/after-2-months-away-from-congress-tom-kean-jr-finally-speaks-and-keeps-his-secret.html",
+        "publishedAt": "2026-05-22",
+        "relevanceSummary": "NJ.com reported that Rep. Tom Kean Jr. broke his silence with a phone interview — his first since missing votes on March 5, 2026 — in which he said his doctors are 'optimistic' about a full recovery but declined to disclose the nature of his illness. Kean confirmed he still plans to seek a third term in November and expected to return to voting 'in the next few weeks.' The prolonged absence (over 100 missed House votes by early June) has become the defining issue of NJ-07's competitive cycle, raising questions about whether Kean will be able to campaign and cast votes on key Republican majority legislation before Election Day.",
+        "tag": "administration",
+        "reviewState": "new"
+      }
+    ],
+    "LAST_REFRESH": {
+      "id": "run-2026-06-11-nj-07-initial",
+      "startedAt": "2026-06-11T19:00:00Z",
+      "completedAt": "2026-06-11T19:45:00Z",
+      "triggerType": "manual",
+      "sourcesChecked": 13,
+      "updatesCreated": 0,
+      "conflictsCreated": 1,
+      "errors": [],
+      "summary": "Initial build June 11, 2026. All 13 sources verified. NJ-07 primary (June 2) is complete: Tom Kean Jr. (R, unopposed) and Rebecca Bennett (D, ~46%) are the November 3 general election nominees. Conflict conf-nj07-001 surfaced: P.L.2025, c.32 office-block ballot law leaves county-clerk formatting discretion that may produce quasi-county-line ballot designs across NJ-07's six counties. All 18 events and 12 rules marked needsReview/unconfirmed pending county-specific verification. New SOS: Lt. Gov. Dr. Dale G. Caldwell (Jan 2026). SAVR effective Jan 12, 2026."
+    },
+    "NEXT_REFRESH_AT": "2026-06-18T19:00:00Z",
+    "WEEKLY_REPORT": {
+      "id": "wr-nj07-2026-w24",
+      "periodStart": "2026-06-08",
+      "periodEnd": "2026-06-14",
+      "sourcesChecked": 13,
+      "newUpdates": 3,
+      "conflictsCreated": 1,
+      "conflictsResolved": 0,
+      "deadlinesChanged": 0,
+      "rulesChanged": 0,
+      "newsItems": 6,
+      "needsReview": 12,
+      "sourceErrors": 0,
+      "summary": "Initial build week of June 8–14, 2026. NJ-07 dashboard created post-primary. Kean (R) vs. Bennett (D) set for November 3. Primary called June 3 (WHYY/NPR). General election timeline: registration Oct 13, mail ballot app deadline Oct 27, early voting Oct 24–Nov 1, Election Day Nov 3, VBM receipt Nov 9, cure window ~Nov 18, canvass ~Dec 3. All 13 sources verified. 12 rules and 18 events flagged needsReview. Conflict raised on P.L.2025 c.32 ballot design inconsistency across NJ-07's six counties (Camden County precedent). New SOS Caldwell confirmed, SAVR effective Jan 12, 2026.",
+      "generatedAt": "2026-06-11T19:45:00Z"
+    }
+  }
+}

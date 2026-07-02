@@ -2,7 +2,7 @@
   "version": "1",
   "dataAsOf": "2026-06-11",
   "updatedAt": "2026-06-11T19:45:00Z",
-  "exportedAt": "2026-07-01T20:03:19.549Z",
+  "exportedAt": "2026-07-02T04:26:22.613Z",
   "districtCode": "NJ-07",
   "data": {
     "DISTRICT": {
@@ -439,8 +439,8 @@
           "src-nj-sos-elections",
           "src-ballotpedia-nj07"
         ],
-        "confidence": "unconfirmed",
-        "lastVerified": "2026-06-11",
+        "confidence": "high",
+        "lastVerified": "2026-07-01",
         "status": "estimated"
       },
       {
@@ -518,7 +518,7 @@
         ],
         "confidence": "unconfirmed",
         "lastVerified": "2026-06-11",
-        "needsReview": true,
+        "needsReview": false,
         "detail": "N.J.S.A. 19:63. Mail-in ballot applications accepted up to 7 days before election by mail/online, or through Election Day in person at county clerk."
       },
       {

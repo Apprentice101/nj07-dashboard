@@ -1,8 +1,8 @@
 {
   "version": "1",
   "dataAsOf": "2026-07-08",
-  "updatedAt": "2026-07-08T06:24:18.740Z",
-  "exportedAt": "2026-07-08T06:28:36.346Z",
+  "updatedAt": "2026-07-08T19:37:22.394Z",
+  "exportedAt": "2026-07-08T19:43:28.500Z",
   "districtCode": "NJ-07",
   "data": {
     "DISTRICT": {
@@ -923,16 +923,16 @@
     ],
     "LAST_REFRESH": {
       "id": "run-2026-07-08-nj07-auto",
-      "startedAt": "2026-07-08T06:24:13.857Z",
-      "completedAt": "2026-07-08T06:24:18.740Z",
+      "startedAt": "2026-07-08T19:37:20.403Z",
+      "completedAt": "2026-07-08T19:37:22.394Z",
       "triggerType": "scheduled",
       "sourcesChecked": 27,
       "updatesCreated": 0,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-08 for NJ-07. Sources checked: 27. LLM verifications: 28. 1 lastVerified bump on unchanged sources."
+      "summary": "Automated refresh completed 2026-07-08 for NJ-07. Sources checked: 27. LLM verifications: 28. No changes detected; all sources verified unchanged."
     },
-    "NEXT_REFRESH_AT": "2026-07-15T06:24:18.740Z",
+    "NEXT_REFRESH_AT": "2026-07-15T19:37:22.394Z",
     "WEEKLY_REPORT": {
       "id": "wr-nj07-2026-w24",
       "periodStart": "2026-06-08",

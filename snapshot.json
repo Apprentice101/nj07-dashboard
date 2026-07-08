@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-07-03",
-  "updatedAt": "2026-07-03T01:32:12.573Z",
-  "exportedAt": "2026-07-04T00:39:45.784Z",
+  "dataAsOf": "2026-07-08",
+  "updatedAt": "2026-07-08T06:24:18.740Z",
+  "exportedAt": "2026-07-08T06:28:36.346Z",
   "districtCode": "NJ-07",
   "data": {
     "DISTRICT": {
@@ -139,7 +139,7 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-06-11",
+        "lastVerified": "2026-07-08",
         "confidence": "high",
         "notes": "Union County covers the largest share of NJ-07 registered voters. Additional county site: ucnj.org."
       },
@@ -922,17 +922,17 @@
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-07-03-nj07-auto",
-      "startedAt": "2026-07-03T01:31:26.141Z",
-      "completedAt": "2026-07-03T01:32:12.573Z",
+      "id": "run-2026-07-08-nj07-auto",
+      "startedAt": "2026-07-08T06:24:13.857Z",
+      "completedAt": "2026-07-08T06:24:18.740Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 13,
+      "sourcesChecked": 27,
       "updatesCreated": 0,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-03 for NJ-07. Sources checked: 13. LLM verifications: 15. No changes detected; all sources verified unchanged."
+      "summary": "Automated refresh completed 2026-07-08 for NJ-07. Sources checked: 27. LLM verifications: 28. 1 lastVerified bump on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-07-10T01:32:12.573Z",
+    "NEXT_REFRESH_AT": "2026-07-15T06:24:18.740Z",
     "WEEKLY_REPORT": {
       "id": "wr-nj07-2026-w24",
       "periodStart": "2026-06-08",

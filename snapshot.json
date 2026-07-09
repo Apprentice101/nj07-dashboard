@@ -2,7 +2,7 @@
   "version": "1",
   "dataAsOf": "2026-07-08",
   "updatedAt": "2026-07-08T19:37:22.394Z",
-  "exportedAt": "2026-07-08T20:35:23.906Z",
+  "exportedAt": "2026-07-09T17:04:13.337Z",
   "districtCode": "NJ-07",
   "data": {
     "DISTRICT": {
@@ -704,80 +704,80 @@
     ],
     "RESOURCES": [
       {
-        "id": "res-nj-sos-elections",
-        "label": "NJ Division of Elections — Official state portal",
-        "url": "https://www.nj.gov/state/elections/",
+        "id": "res-register",
+        "label": "Register to vote",
         "description": "Official New Jersey elections hub: voter registration, election calendar, mail-in ballot information, and voting rules. Authoritative source for NJ-07 election deadlines. Overseen by Secretary of State Lt. Gov. Dr. Dale G. Caldwell.",
+        "url": "https://www.nj.gov/state/elections/",
         "governingAuthority": "New Jersey Division of Elections",
         "sourceType": "official-state",
         "sourceId": "src-nj-sos-elections",
-        "lastVerified": "2026-06-11"
+        "lastVerified": "2026-07-08"
       },
       {
-        "id": "res-nj-vote-portal",
-        "label": "vote.nj.gov — NJ voter portal",
-        "url": "https://vote.nj.gov",
+        "id": "res-locations",
+        "label": "Find voting locations",
         "description": "Register to vote, apply for a mail-in ballot, check your registration status, and find early voting and Election Day polling locations. Phone: 1-877-NJ-VOTER (1-877-658-6837).",
+        "url": "https://vote.nj.gov",
         "governingAuthority": "New Jersey Division of Elections",
         "sourceType": "official-state",
         "sourceId": "src-nj-vote-portal",
-        "lastVerified": "2026-06-11"
+        "lastVerified": "2026-07-08"
+      },
+      {
+        "id": "res-ballot-box",
+        "label": "Find ballot boxes",
+        "description": "Official elections page for Union County — the largest share of NJ-07's registered voters. Early voting sites, drop box locations, and ballot status. Phone: 908-527-4996.",
+        "url": "https://unioncountyvotes.com",
+        "governingAuthority": "Union County Board of Elections",
+        "sourceType": "official-county",
+        "sourceId": "src-union-clerk",
+        "lastVerified": "2026-07-08"
+      },
+      {
+        "id": "res-check-reg",
+        "label": "Check registration status",
+        "description": "Register to vote, apply for a mail-in ballot, check your registration status, and find early voting and Election Day polling locations. Phone: 1-877-NJ-VOTER (1-877-658-6837).",
+        "url": "https://vote.nj.gov",
+        "governingAuthority": "New Jersey Division of Elections",
+        "sourceType": "official-state",
+        "sourceId": "src-nj-vote-portal",
+        "lastVerified": "2026-07-08"
+      },
+      {
+        "id": "res-track",
+        "label": "Track your ballot",
+        "description": "Track a New Jersey vote-by-mail ballot.",
+        "url": "https://voter.svrs.nj.gov/military-overseas-tracking",
+        "governingAuthority": "NJ Division of Elections",
+        "sourceType": "official-state",
+        "sourceId": "src-nj-elections",
+        "lastVerified": "2026-07-08"
+      },
+      {
+        "id": "res-results",
+        "label": "Election results",
+        "description": "Official New Jersey election results.",
+        "url": "https://www.nj.gov/state/elections/election-information-results.shtml",
+        "governingAuthority": "NJ Division of Elections",
+        "sourceType": "official-state",
+        "sourceId": "src-nj-elections",
+        "lastVerified": "2026-07-08"
       },
       {
         "id": "res-nj-mail-ballot",
         "label": "NJ Mail-In Ballot Application",
-        "url": "https://vote.nj.gov/Public/VBM",
         "description": "Apply online for a no-excuse mail-in ballot. Deadline for 2026 general election: October 27, 2026 (7 days before election) online/by mail; Election Day in person at county clerk. All NJ-07 voters eligible regardless of reason.",
+        "url": "https://vote.nj.gov/Public/VBM",
         "governingAuthority": "New Jersey Division of Elections",
         "sourceType": "official-state",
         "sourceId": "src-nj-sos-elections",
-        "lastVerified": "2026-06-11"
-      },
-      {
-        "id": "res-union-clerk",
-        "label": "Union County Board of Elections (unioncountyvotes.com)",
-        "url": "https://unioncountyvotes.com",
-        "description": "Official elections page for Union County — the largest share of NJ-07's registered voters. Early voting sites, drop box locations, and ballot status. Phone: 908-527-4996.",
-        "governingAuthority": "Union County Board of Elections",
-        "sourceType": "official-county",
-        "sourceId": "src-union-clerk",
-        "lastVerified": "2026-06-11"
-      },
-      {
-        "id": "res-hunterdon-clerk",
-        "label": "Hunterdon County Clerk",
-        "url": "https://www.co.hunterdon.nj.us/countyclerk.htm",
-        "description": "Official elections page for Hunterdon County (fully within NJ-07). Voter registration, mail-in ballots, early voting, and polling place information. Phone: (908) 788-1214.",
-        "governingAuthority": "Hunterdon County Clerk",
-        "sourceType": "official-county",
-        "sourceId": "src-hunterdon-clerk",
-        "lastVerified": "2026-06-11"
-      },
-      {
-        "id": "res-warren-clerk",
-        "label": "Warren County Clerk",
-        "url": "https://www.co.warren.nj.us/countyclerk/",
-        "description": "Official elections page for Warren County (fully within NJ-07). Voter registration, mail-in ballot applications, and polling place lookups.",
-        "governingAuthority": "Warren County Clerk",
-        "sourceType": "official-county",
-        "sourceId": "src-warren-clerk",
-        "lastVerified": "2026-06-11"
-      },
-      {
-        "id": "res-somerset-clerk",
-        "label": "Somerset County Clerk",
-        "url": "https://www.co.somerset.nj.us/government/elected-officials/county-clerk",
-        "description": "Official elections page for Somerset County (partially within NJ-07). Voter registration, early voting site listings, and mail-in ballot information.",
-        "governingAuthority": "Somerset County Clerk",
-        "sourceType": "official-county",
-        "sourceId": "src-somerset-clerk",
         "lastVerified": "2026-06-11"
       },
       {
         "id": "res-ballotpedia-nj07",
         "label": "Ballotpedia — NJ-07 2026 election",
-        "url": "https://ballotpedia.org/New_Jersey%27s_7th_Congressional_District_election,_2026",
         "description": "Nonpartisan reference page for NJ-07's 2026 election: candidate profiles, primary results, race ratings (Cook Toss Up), and campaign finance summary.",
+        "url": "https://ballotpedia.org/New_Jersey%27s_7th_Congressional_District_election,_2026",
         "governingAuthority": "Ballotpedia",
         "sourceType": "secondary",
         "sourceId": "src-ballotpedia-nj07",
@@ -786,8 +786,8 @@
       {
         "id": "res-nj-ballot-design-guide",
         "label": "NJ 2026 Primary Ballot Design Guide (P.L.2025, c.32)",
-        "url": "https://www.nj.gov/state/elections/assets/pdf/guidelines/2026/2026-0512-primary-election-ballot-design-guide.pdf",
         "description": "NJ Division of Elections guide explaining the new office-block ballot format required under P.L.2025, c.32 — and the discretion county clerks retain over orientation and label placement. Relevant to NJ-07's six-county span.",
+        "url": "https://www.nj.gov/state/elections/assets/pdf/guidelines/2026/2026-0512-primary-election-ballot-design-guide.pdf",
         "governingAuthority": "New Jersey Division of Elections",
         "sourceType": "official-state",
         "sourceId": "src-nj-sos-elections",

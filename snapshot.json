@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-07-08",
-  "updatedAt": "2026-07-08T19:37:22.394Z",
-  "exportedAt": "2026-07-09T17:04:13.337Z",
+  "dataAsOf": "2026-07-15",
+  "updatedAt": "2026-07-15T06:27:08.461Z",
+  "exportedAt": "2026-07-15T06:40:50.740Z",
   "districtCode": "NJ-07",
   "data": {
     "DISTRICT": {
@@ -65,6 +65,20 @@
           "votes": 142000
         },
         "turnoutPct": 62
+      },
+      "newsDiscoveryHints": {
+        "geographicHint": "NJ-07 covers six counties across central and northwestern NJ: all of Hunterdon and Warren; parts of Somerset, Union, Morris, and Sussex. Major places: Westfield, Flemington, Phillipsburg, Somerville, Morristown, Newton.",
+        "preferredOutlets": [
+          "New Jersey Globe",
+          "NJ.com / NJ Advance Media",
+          "NJ Spotlight News",
+          "Politico New Jersey",
+          "Insider NJ",
+          "WHYY",
+          "New Jersey Monitor",
+          "Star-Ledger",
+          "NJ 101.5"
+        ]
       }
     },
     "SOURCES": {
@@ -77,7 +91,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-07-03",
+        "lastVerified": "2026-07-15",
         "confidence": "high",
         "notes": "Lt. Gov. Dr. Dale G. Caldwell is Secretary of State as of January 2026. Official voter portal: vote.nj.gov."
       },
@@ -919,20 +933,60 @@
         "relevanceSummary": "NJ.com reported that Rep. Tom Kean Jr. broke his silence with a phone interview — his first since missing votes on March 5, 2026 — in which he said his doctors are 'optimistic' about a full recovery but declined to disclose the nature of his illness. Kean confirmed he still plans to seek a third term in November and expected to return to voting 'in the next few weeks.' The prolonged absence (over 100 missed House votes by early June) has become the defining issue of NJ-07's competitive cycle, raising questions about whether Kean will be able to campaign and cast votes on key Republican majority legislation before Election Day.",
         "tag": "administration",
         "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-0vw6oui",
+        "headline": "N.J. just became the first state to fight back against Supreme Court voting rights decision",
+        "sourceName": "NJ.com / NJ Advance Media",
+        "url": "https://www.nj.com/politics/2026/07/nj-just-became-the-first-state-to-fight-back-against-supreme-court-voting-rights-decision.html",
+        "publishedAt": "2026-07-02",
+        "relevanceSummary": "This article details the John R. Lewis Voter Empowerment Act, explaining how it strengthens protections for minority voters, requires fair ballot casting and counting, and authorizes the state attorney general to penalize election methods that dilute protected-class voting power, directly shaping districting and election administration statewide, including in NJ‑07.[5] NJ‑07 voters should be aware of these changes because they affect future redistricting, voting access, and enforcement of anti‑discrimination rules in all New Jersey counties.[5]",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-0ntdj37",
+        "headline": "New Jersey Enacts State Voting Rights Law After Supreme Court Ruling",
+        "sourceName": "Morristown Minute",
+        "url": "https://morristownminute.org/new-jersey-voting-rights-law-changes-supreme-court-ruling/",
+        "publishedAt": "2026-07-02",
+        "relevanceSummary": "New Jersey’s new John R. Lewis Voter Empowerment Act creates statewide protections against voter suppression, intimidation, deceptive election information, and obstruction of access to polling places, ballot drop boxes, or election offices, with key provisions taking effect August 15, 2026, which will govern how NJ‑07 elections are run.[3] The law also establishes future preclearance and language-access requirements for certain local jurisdictions, potentially affecting county election procedures, ballot access, and voter assistance across NJ‑07.[3]",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-0t1l0cx",
+        "headline": "Supreme Court upholds vote-by-mail system, New Jersey officials react",
+        "sourceName": "NorthJersey.com",
+        "url": "https://www.northjersey.com/story/news/politics/elections/2026/06/29/new-jersey-officials-react-to-supreme-court-decision-on-vote-by-mail/90740581007/",
+        "publishedAt": "2026-06-29",
+        "relevanceSummary": "This piece reports on the U.S. Supreme Court decision upholding state laws that count mail‑in ballots received after Election Day and includes reactions from New Jersey officials, clarifying the legal environment for vote‑by‑mail systems.[2] While focused on a Mississippi law, the ruling and NJ responses are relevant to NJ‑07 voters because they influence how New Jersey can structure and defend its own mail‑in ballot receipt deadlines and counting procedures.[2]",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-013ykf8",
+        "headline": "Bill would crack down on electioneering near polling places and ballot drop boxes",
+        "sourceName": "New Jersey Legislative Senate Democrats",
+        "url": "https://www.njsendems.org/m/newsflash?cat=12",
+        "publishedAt": "2026-06-27",
+        "relevanceSummary": "The bill S‑1230 would prohibit electioneering within 25 feet of a person waiting in line at a polling place or ballot drop box beyond the existing 100‑foot buffer, making violations a disorderly persons offense with fines up to $1,000 and possible jail time.[4] If enacted, this would change on‑the‑ground polling place and drop‑box procedures statewide, including in NJ‑07, affecting how campaigns and voters interact at voting locations.[4]",
+        "tag": "rule-change",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-07-08-nj07-auto",
-      "startedAt": "2026-07-08T19:37:20.403Z",
-      "completedAt": "2026-07-08T19:37:22.394Z",
+      "id": "run-2026-07-15-nj07-auto",
+      "startedAt": "2026-07-15T06:25:56.188Z",
+      "completedAt": "2026-07-15T06:27:08.461Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 27,
-      "updatesCreated": 0,
+      "sourcesChecked": 14,
+      "updatesCreated": 4,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-08 for NJ-07. Sources checked: 27. LLM verifications: 28. No changes detected; all sources verified unchanged."
+      "summary": "Automated refresh completed 2026-07-15 for NJ-07. Sources checked: 14. LLM verifications: 16. 1 lastVerified bump on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-07-15T19:37:22.394Z",
+    "NEXT_REFRESH_AT": "2026-07-22T06:27:08.461Z",
     "WEEKLY_REPORT": {
       "id": "wr-nj07-2026-w24",
       "periodStart": "2026-06-08",

@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-07-15",
-  "updatedAt": "2026-07-15T06:27:08.461Z",
-  "exportedAt": "2026-07-15T06:40:50.740Z",
+  "dataAsOf": "2026-07-22",
+  "updatedAt": "2026-07-22T06:38:26.023Z",
+  "exportedAt": "2026-07-22T06:52:31.022Z",
   "districtCode": "NJ-07",
   "data": {
     "DISTRICT": {
@@ -91,7 +91,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-07-15",
+        "lastVerified": "2026-07-22",
         "confidence": "high",
         "notes": "Lt. Gov. Dr. Dale G. Caldwell is Secretary of State as of January 2026. Official voter portal: vote.nj.gov."
       },
@@ -973,20 +973,80 @@
         "relevanceSummary": "The bill S‑1230 would prohibit electioneering within 25 feet of a person waiting in line at a polling place or ballot drop box beyond the existing 100‑foot buffer, making violations a disorderly persons offense with fines up to $1,000 and possible jail time.[4] If enacted, this would change on‑the‑ground polling place and drop‑box procedures statewide, including in NJ‑07, affecting how campaigns and voters interact at voting locations.[4]",
         "tag": "rule-change",
         "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-04p5273",
+        "headline": "New Jersey error led to almost 400 non-citizens voting",
+        "sourceName": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cgew9xw314yo",
+        "publishedAt": "2026-07-21",
+        "relevanceSummary": "BBC’s coverage of the New Jersey Motor Vehicle Commission software malfunction reiterates that around 6,600 noncitizens were mistakenly registered and fewer than 400 voted, and notes the governor’s plan to replace the ID system vendor, highlighting statewide election-administration fixes that will also affect NJ-07 residents’ interactions with MVC-based voter registration.[5]",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-0r73217",
+        "headline": "Error Led to 400 Noncitizens Voting, New Jersey Governor Says",
+        "sourceName": "The New York Times",
+        "url": "https://www.nytimes.com/2026/07/21/nyregion/noncitizen-voting-new-jersey-error.html",
+        "publishedAt": "2026-07-21",
+        "relevanceSummary": "This article details how a Motor Vehicle Commission software error led to roughly 6,600 noncitizens being added to New Jersey’s voter rolls and about 400 voting, and explains the governor’s steps to correct the registrations and review the system, which matters for NJ-07 voters because it involves statewide voter registration procedures and safeguards.[2]",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-0qh4l1z",
+        "headline": "Thousands of non-citizens registered to vote in NJ due to software error, governor says",
+        "sourceName": "Politico",
+        "url": "https://www.politico.com/news/2026/07/21/thousands-of-non-citizens-registered-to-vote-in-nj-due-to-software-error-governor-says-01006373",
+        "publishedAt": "2026-07-21",
+        "relevanceSummary": "Gov. Mikie Sherrill announced that a software error at the New Jersey Motor Vehicle Commission improperly registered about 6,600 non-citizens to vote between June 2023 and June 2024, with roughly 400 casting ballots, and said the state is now removing these registrations and conducting an independent review—information directly relevant to voter-roll integrity and election administration affecting NJ-07 voters.[1]",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-0fjb5de",
+        "headline": "Landmark John R. Lewis Voter Empowerment Act signed into law",
+        "sourceName": "New Jersey General Assembly Democrats",
+        "url": "https://www.assemblydems.com/m/newsflash",
+        "publishedAt": "2026-07-19",
+        "relevanceSummary": "This news release reports that the John R. Lewis Voter Empowerment Act of New Jersey has received final legislative approval and was signed into law, creating new statewide voter protections and expanding equitable access to voting, which directly affects election procedures, ballot access, and voter assistance for all New Jersey voters including those in NJ-07.[6]",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-0h89x31",
+        "headline": "John R. Lewis Voter Empowerment Act of New Jersey approved by Senate",
+        "sourceName": "New Jersey Legislative Senate Democrats",
+        "url": "https://www.njsendems.org/m/newsflash",
+        "publishedAt": "2026-07-18",
+        "relevanceSummary": "The Senate approved the John R. Lewis Voter Empowerment Act (S-282), which aims to strengthen voter protections, guard against suppression and intimidation, and improve access to voting materials and assistance for non-English speakers statewide, setting potential new rules for how ballots are cast and counted that would apply to all NJ-07 voters once fully enacted.[4]",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-0zhfx02",
+        "headline": "Newark press conference backs New Jersey voting rights legislation",
+        "sourceName": "Workers World / People’s Organization For Progress announcement",
+        "url": "https://wibailoutpeople.org/2026/07/17/newark-new-jersey-july-17-2026-press-conference-will-support-voting-rights-legislation-and-oppose-blanche-nomination-to-justice-department-on-john-lewis-anniversary/",
+        "publishedAt": "2026-07-17",
+        "relevanceSummary": "This announcement of a Newark press conference supporting the John R. Lewis Voter Empowerment Act highlights organized advocacy around New Jersey’s voting-rights and election-access legislation, providing NJ-07 voters with civic context on the statewide law that will shape their future voting procedures and protections.[3]",
+        "tag": "voter-info",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-07-15-nj07-auto",
-      "startedAt": "2026-07-15T06:25:56.188Z",
-      "completedAt": "2026-07-15T06:27:08.461Z",
+      "id": "run-2026-07-22-nj07-auto",
+      "startedAt": "2026-07-22T06:37:20.628Z",
+      "completedAt": "2026-07-22T06:38:26.023Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 14,
-      "updatesCreated": 4,
+      "sourcesChecked": 13,
+      "updatesCreated": 6,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-15 for NJ-07. Sources checked: 14. LLM verifications: 16. 1 lastVerified bump on unchanged sources."
+      "summary": "Automated refresh completed 2026-07-22 for NJ-07. Sources checked: 13. LLM verifications: 14. 1 lastVerified bump on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-07-22T06:27:08.461Z",
+    "NEXT_REFRESH_AT": "2026-07-29T06:38:26.023Z",
     "WEEKLY_REPORT": {
       "id": "wr-nj07-2026-w24",
       "periodStart": "2026-06-08",

@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-07-22",
-  "updatedAt": "2026-07-22T06:38:26.023Z",
-  "exportedAt": "2026-07-22T21:17:31.823Z",
+  "dataAsOf": "2026-07-29",
+  "updatedAt": "2026-07-29T06:42:08.312Z",
+  "exportedAt": "2026-07-29T06:55:52.423Z",
   "districtCode": "NJ-07",
   "data": {
     "DISTRICT": {
@@ -91,7 +91,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-07-22",
+        "lastVerified": "2026-07-29",
         "confidence": "high",
         "notes": "Lt. Gov. Dr. Dale G. Caldwell is Secretary of State as of January 2026. Official voter portal: vote.nj.gov."
       },
@@ -116,7 +116,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-06-11",
+        "lastVerified": "2026-07-29",
         "confidence": "high",
         "notes": "Includes P.L.2025, c.32 (office-block ballot law) and S1636 (SAVR, effective Jan 12, 2026)."
       },
@@ -1033,20 +1033,100 @@
         "relevanceSummary": "This announcement of a Newark press conference supporting the John R. Lewis Voter Empowerment Act highlights organized advocacy around New Jersey’s voting-rights and election-access legislation, providing NJ-07 voters with civic context on the statewide law that will shape their future voting procedures and protections.[3]",
         "tag": "voter-info",
         "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-0ndepcm",
+        "headline": "Surprise in New Jersey voting error: Some may be citizens after all",
+        "sourceName": "NJ Spotlight News",
+        "url": "https://www.njspotlightnews.org/2026/07/surprise-in-new-jersey-voting-error-some-may-be-citizens-after-all/",
+        "publishedAt": "2026-07-26",
+        "relevanceSummary": "This report describes how New Jersey began scrubbing voter rolls of more than 4,500 ineligible registrants after the noncitizen registration error, while noting that some individuals may in fact be citizens, highlighting ongoing list maintenance and potential corrections that could affect individual voter records for NJ-07 residents.[1]",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-0atmr0p",
+        "headline": "How 6600 noncitizens were registered to vote in New Jersey",
+        "sourceName": "Jersey Vindicator",
+        "url": "https://jerseyvindicator.org/2026/07/26/the-vindicator-explains-how-6600-noncitizens-were-registered-to-vote-in-new-jersey/",
+        "publishedAt": "2026-07-26",
+        "relevanceSummary": "This explainer details how a breakdown in New Jersey’s automatic voter-registration system at the Motor Vehicle Commission led to about 6,600 noncitizens being added to the voter rolls and outlines the safeguards and removal process now being implemented, which informs NJ-07 voters about statewide voter registration procedures and corrections.[5]",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-0vfv1e2",
+        "headline": "Democrats concede NJ voter-roll failure was ‘horrible' — but reject broader fraud fears",
+        "sourceName": "WFMD",
+        "url": "https://www.wfmd.com/2026/07/25/democrats-concede-nj-voter-roll-failure-was-horrible-but-reject-broader-fraud-fears/",
+        "publishedAt": "2026-07-25",
+        "relevanceSummary": "This piece notes Gov. Sherrill ordered an investigation and directed the Division of Elections to remove ineligible voters after the voter-roll failure, clarifying for New Jersey voters that officials are actively updating registration lists and that fewer than 400 improperly registered individuals cast ballots, shaping confidence in election administration in districts like NJ-07.[6]",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-053qw7n",
+        "headline": "Republicans point to New Jersey voting glitch in final push for SAVE Act before Congress' summer recess",
+        "sourceName": "ABC News",
+        "url": "https://abcnews.com/Politics/republicans-point-new-jersey-voting-glitch-final-push/story?id=134994636",
+        "publishedAt": "2026-07-24",
+        "relevanceSummary": "This article links New Jersey’s 6,600 noncitizen registration glitch to a federal push for the SAVE America Act, which would require documentary proof of citizenship to register and photo ID to vote, signaling potential future changes to voter-ID and registration requirements that could directly alter procedures for NJ-07 voters if enacted.[10]",
+        "tag": "legislation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-0u97ra3",
+        "headline": "How did 6600 non citizens stay on NJ voter rolls? State investigation begins",
+        "sourceName": "News 12 New Jersey",
+        "url": "https://newjersey.news12.com/2026/07/24/how-did-6600-non-citizens-stay-on-nj-voter-rolls-state-investigation-begins/5Fb0yYthRulhUFCsmcxQuL",
+        "publishedAt": "2026-07-24",
+        "relevanceSummary": "This report describes the state investigation into the voter-registration computer glitch that left 6,600 noncitizens on New Jersey’s rolls, notes that nearly 400 voted, and highlights officials’ urgency to fix registration processes before September mail-in ballots are sent, which is directly relevant to NJ-07 voters’ registration status and mail-ballot timing.[9]",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-0jj7f20",
+        "headline": "Voter registration error in NJ prompts states to audit systems",
+        "sourceName": "USA Today",
+        "url": "https://www.usatoday.com/story/news/politics/elections/2026/07/23/nj-noncitizen-registration-states-audit-voter-systems/91007924007/",
+        "publishedAt": "2026-07-23",
+        "relevanceSummary": "This article explains that a software flaw at New Jersey’s Motor Vehicle Commission allowed as many as 6,600 noncitizens to register and fewer than 400 to vote in 2023–24, prompting audits and review of automatic voter registration systems, which affects how all New Jersey voters, including NJ-07, are added to the rolls and may change future registration procedures.[8]",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-0u2w2tu",
+        "headline": "N.J. purging voter rolls after explosive scandal. Some may have been wrongly flagged as noncitizens, gov says.",
+        "sourceName": "NJ.com",
+        "url": "https://www.nj.com/politics/2026/07/nj-purging-voter-rolls-after-explosive-scandal-some-may-have-been-wrongly-flagged-as-noncitizens-gov-says.html",
+        "publishedAt": "2026-07-23",
+        "relevanceSummary": "Gov. Mikie Sherrill announced that about 6,600 people were improperly registered to vote due to a Motor Vehicle Commission software error and that the state is now purging and reviewing voter rolls to remove ineligible registrations before upcoming elections, directly affecting statewide voter registration status and list maintenance for NJ-07 voters.[7]",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-0x3xyw8",
+        "headline": "Software glitch allowed about 400 noncitizens to vote in New Jersey, governor says",
+        "sourceName": "NPR",
+        "url": "https://www.npr.org/2026/07/22/nx-s1-5902283/software-glitch-allowed-about-400-noncitizens-to-vote-in-new-jersey-governor-says",
+        "publishedAt": "2026-07-22",
+        "relevanceSummary": "NPR reports that a software error led to about 400 noncitizens voting in New Jersey in 2023 and 2024, with the governor detailing the glitch in the Motor Vehicle Commission’s automatic registration system, providing statewide context on how voter registration is handled and corrected for all voters including those in NJ-07.[2]",
+        "tag": "administration",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-07-22-nj07-auto",
-      "startedAt": "2026-07-22T06:37:20.628Z",
-      "completedAt": "2026-07-22T06:38:26.023Z",
+      "id": "run-2026-07-29-nj07-auto",
+      "startedAt": "2026-07-29T06:40:51.556Z",
+      "completedAt": "2026-07-29T06:42:08.312Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 13,
-      "updatesCreated": 6,
+      "sourcesChecked": 17,
+      "updatesCreated": 8,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-22 for NJ-07. Sources checked: 13. LLM verifications: 14. 1 lastVerified bump on unchanged sources."
+      "summary": "Automated refresh completed 2026-07-29 for NJ-07. Sources checked: 17. LLM verifications: 18. 2 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-07-29T06:38:26.023Z",
+    "NEXT_REFRESH_AT": "2026-08-05T06:42:08.312Z",
     "WEEKLY_REPORT": {
       "id": "wr-nj07-2026-w24",
       "periodStart": "2026-06-08",

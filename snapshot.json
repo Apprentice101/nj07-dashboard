@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-07-29",
-  "updatedAt": "2026-07-29T06:42:08.312Z",
-  "exportedAt": "2026-07-29T06:55:52.423Z",
+  "dataAsOf": "2026-08-05",
+  "updatedAt": "2026-08-05T06:35:47.873Z",
+  "exportedAt": "2026-08-05T06:49:29.122Z",
   "districtCode": "NJ-07",
   "data": {
     "DISTRICT": {
@@ -91,7 +91,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-07-29",
+        "lastVerified": "2026-08-05",
         "confidence": "high",
         "notes": "Lt. Gov. Dr. Dale G. Caldwell is Secretary of State as of January 2026. Official voter portal: vote.nj.gov."
       },
@@ -1113,20 +1113,100 @@
         "relevanceSummary": "NPR reports that a software error led to about 400 noncitizens voting in New Jersey in 2023 and 2024, with the governor detailing the glitch in the Motor Vehicle Commission’s automatic registration system, providing statewide context on how voter registration is handled and corrected for all voters including those in NJ-07.[2]",
         "tag": "administration",
         "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-0brr7v0",
+        "headline": "N.J. Supreme Court allows Libertarian candidate to seek return to NJ-7 ballot",
+        "sourceName": "New Jersey Globe",
+        "url": "https://newjerseyglobe.com/congress/n-j-supreme-court-allows-libertarian-candidate-to-seek-return-to-nj-7-ballot/",
+        "publishedAt": "2026-08-04",
+        "relevanceSummary": "The New Jersey Supreme Court granted Libertarian congressional candidate Lana Leguía permission to file an expedited petition seeking to return to the November general-election ballot in NJ-7, with an accelerated schedule that could produce a decision before ballots are prepared, directly affecting which candidates NJ-07 voters will see on their ballots.[8]",
+        "tag": "candidates",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-05vfbs4",
+        "headline": "N.J. GOP sees momentum for voter ID law after governor's comments",
+        "sourceName": "Philadelphia Inquirer",
+        "url": "https://www.inquirer.com/news/new-jersey/nj-republicans-voter-id-governor-comments-20260803.html",
+        "publishedAt": "2026-08-03",
+        "relevanceSummary": "Following Gov. Sherrill’s statement that she would sign a voter ID law if it reached her desk, New Jersey Republicans are pushing renewed legislation to require photo identification for in-person voting, which could alter what documents NJ-07 voters must bring to the polls in future elections.[4][6][10][13]",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-0w0dl6e",
+        "headline": "Sherrill and voter ID",
+        "sourceName": "Politico New Jersey Playbook",
+        "url": "https://www.politico.com/newsletters/new-jersey-playbook/2026/08/03/sherrill-and-voter-id-01021939",
+        "publishedAt": "2026-08-03",
+        "relevanceSummary": "This newsletter details Gov. Mikie Sherrill’s public openness to a statewide voter ID requirement and the resulting legislative pressure, covering bills that would require New Jersey voters to present photo identification at polling places and highlighting ongoing debates about how future statewide voting procedures may change.[3][10][13]",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-00yoyyj",
+        "headline": "Testa Calls for Special Session to Pass Voter ID Law",
+        "sourceName": "Insider NJ",
+        "url": "https://www.insidernj.com/testa-calls-for-special-session-to-pass-voter-id-law/",
+        "publishedAt": "2026-08-02",
+        "relevanceSummary": "State Sen. Michael Testa is urging an immediate legislative special session to pass S-68, a bill that would require all New Jersey voters to present specified photo ID (such as a NJ driver’s license, REAL ID, MVC ID-only card, or U.S. passport) before casting a ballot at polling locations, which would directly change voting procedures for NJ-07 residents if enacted.[10]",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-0y3nyny",
+        "headline": "'Honor system' is flaw in New Jersey voter registration, critics say",
+        "sourceName": "NJ Spotlight News",
+        "url": "https://www.njspotlightnews.org/2026/08/honor-system-is-flaw-in-new-jersey-voter-registration-critics-say/",
+        "publishedAt": "2026-08-01",
+        "relevanceSummary": "NJ Spotlight News reports that a yearlong Motor Vehicle Commission software error registered at least 4,500 noncitizens and led to roughly 400 illegal votes statewide, and describes a new Secure Automatic Voter Registration law taking effect in 2028 that will require proof of citizenship for Real ID applicants, signaling future changes in how NJ-07 voters are registered and verified.[16][17]",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-0dccito",
+        "headline": "Sherrill supports New Jersey voter ID but draws the line at the SAVE Act",
+        "sourceName": "NJ 101.5",
+        "url": "https://nj1015.com/sherrill-supports-voter-id-laws/",
+        "publishedAt": "2026-08-01",
+        "relevanceSummary": "This article explains that New Jersey currently only requires ID from voters whose identities cannot be verified at registration and describes Gov. Sherrill’s support for a state voter ID law along with GOP proposals to add ID requirements and audits, giving NJ-07 voters a clear picture of present rules and possible statewide changes to in-person identification procedures.[13][16][18]",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-04q3zvk",
+        "headline": "Voting rights groups urge Sherrill to retreat from voter ID support",
+        "sourceName": "New Jersey Globe",
+        "url": "https://newjerseyglobe.com/governor/voting-rights-groups-urge-sherrill-to-retreat-from-voter-id-support/",
+        "publishedAt": "2026-07-31",
+        "relevanceSummary": "Seven voting-rights organizations are pressing Gov. Sherrill to drop support for voter ID requirements, outlining that New Jersey already requires a driver’s license number or Social Security digits at registration and ID for first-time voters who could not be verified, providing NJ-07 voters with detailed context on current ID rules and potential restrictions under proposed laws.[7][9]",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-0eiv2ft",
+        "headline": "The honor system",
+        "sourceName": "Politico New Jersey Playbook",
+        "url": "https://www.politico.com/newsletters/new-jersey-playbook/2026/07/30/the-honor-system-01016665",
+        "publishedAt": "2026-07-30",
+        "relevanceSummary": "This Playbook edition summarizes the discovery that roughly 6,600 noncitizens were registered through New Jersey’s Motor Vehicle Commission between 2023 and 2024 and notes that state election officials are scrubbing the voter rolls and coordinating with counties, reflecting statewide voter registration list maintenance that directly affects the integrity of election administration in NJ-07.[19][16][13]",
+        "tag": "administration",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-07-29-nj07-auto",
-      "startedAt": "2026-07-29T06:40:51.556Z",
-      "completedAt": "2026-07-29T06:42:08.312Z",
+      "id": "run-2026-08-05-nj07-auto",
+      "startedAt": "2026-08-05T06:34:23.557Z",
+      "completedAt": "2026-08-05T06:35:47.873Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 17,
+      "sourcesChecked": 14,
       "updatesCreated": 8,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-29 for NJ-07. Sources checked: 17. LLM verifications: 18. 2 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-08-05 for NJ-07. Sources checked: 14. LLM verifications: 15. 1 lastVerified bump on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-08-05T06:42:08.312Z",
+    "NEXT_REFRESH_AT": "2026-08-12T06:35:47.873Z",
     "WEEKLY_REPORT": {
       "id": "wr-nj07-2026-w24",
       "periodStart": "2026-06-08",

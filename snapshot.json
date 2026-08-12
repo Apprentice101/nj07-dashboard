@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-08-05",
-  "updatedAt": "2026-08-05T06:35:47.873Z",
-  "exportedAt": "2026-08-05T06:49:29.122Z",
+  "dataAsOf": "2026-08-12",
+  "updatedAt": "2026-08-12T05:36:49.033Z",
+  "exportedAt": "2026-08-12T05:48:56.721Z",
   "districtCode": "NJ-07",
   "data": {
     "DISTRICT": {
@@ -91,7 +91,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-08-05",
+        "lastVerified": "2026-08-12",
         "confidence": "high",
         "notes": "Lt. Gov. Dr. Dale G. Caldwell is Secretary of State as of January 2026. Official voter portal: vote.nj.gov."
       },
@@ -1193,20 +1193,80 @@
         "relevanceSummary": "This Playbook edition summarizes the discovery that roughly 6,600 noncitizens were registered through New Jersey’s Motor Vehicle Commission between 2023 and 2024 and notes that state election officials are scrubbing the voter rolls and coordinating with counties, reflecting statewide voter registration list maintenance that directly affects the integrity of election administration in NJ-07.[19][16][13]",
         "tag": "administration",
         "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-0yuduze",
+        "headline": "Is blue N.J. about to pass a voter ID law after Sherrill's comments?",
+        "sourceName": "NJ.com",
+        "url": "https://www.nj.com/politics/2026/08/is-blue-nj-about-to-pass-a-voter-id-law-after-sherrills-comments-mikies-world.html",
+        "publishedAt": "2026-08-08",
+        "relevanceSummary": "NJ.com reports on renewed momentum around a possible New Jersey voter-ID law after Sherrill’s comments, which would affect in-person and registration-related ID rules for voters in NJ-07 if enacted. The story is relevant because it covers a statewide policy change, not just a single race.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-08lfxyw",
+        "headline": "Supreme Court keeps Libertarian off NJ-7 ballot",
+        "sourceName": "New Jersey Globe",
+        "url": "https://newjerseyglobe.com/congress/supreme-court-keeps-libertarian-off-nj-7-ballot/",
+        "publishedAt": "2026-08-08",
+        "relevanceSummary": "The New Jersey Supreme Court left in place a ruling removing Libertarian Lana Leguía from the November general-election ballot in NJ-7 after most of her petition signatures were invalidated. This directly affects the district’s ballot lineup and explains how candidate-qualification rules are being enforced for November.",
+        "tag": "candidates",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-0d4xznv",
+        "headline": "Voter identification in New Jersey reopens the debate after Sherrill's support",
+        "sourceName": "El Diario NY",
+        "url": "https://eldiariony.com/2026/08/07/identificacion-de-votantes-en-nueva-jersey-reabre-el-debate-tras-respaldo-de-sherrill/",
+        "publishedAt": "2026-08-07",
+        "relevanceSummary": "The article says Sherrill’s office reaffirmed support for current voter-registration ID rules while leaving open the possibility of changes. That is relevant to NJ-07 because statewide voter-ID policy would apply to district voters if adopted.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-0yv63m5",
+        "headline": "Power & Politics: Calling for ICE detention center to close; NJ's voter registration mess fallout",
+        "sourceName": "News 12 New Jersey",
+        "url": "https://newjersey.news12.com/power-politics-calling-for-ice-detention-center-to-close-njs-voter-registration-mess-fallout",
+        "publishedAt": "2026-08-07",
+        "relevanceSummary": "News 12 New Jersey’s segment centers on fallout from the state’s voter-registration problems, including public and political reactions to the noncitizen-registration issue. Because it concerns statewide voter-registration procedures, it is relevant to NJ-07 voters even though it is not district-specific.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-0i7zlao",
+        "headline": "Trump Overstates Magnitude of Noncitizen Voting in New Jersey",
+        "sourceName": "FactCheck.org",
+        "url": "https://www.factcheck.org/2026/08/trump-overstates-magnitude-of-noncitizen-voting-in-new-jersey/",
+        "publishedAt": "2026-08-07",
+        "relevanceSummary": "FactCheck.org explains New Jersey’s recent disclosure of a software error that improperly added noncitizens to the voter rolls and notes the state’s preliminary finding that about 400 votes may have been cast by noncitizens. That matters to NJ-07 voters because it concerns statewide voter-registration administration and confidence in the voter rolls.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-0d9o65p",
+        "headline": "NJ Lawmaker Cites Sherrill Support to Demand Voter ID Law",
+        "sourceName": "The Daily Signal",
+        "url": "https://www.dailysignal.com/2026/08/06/nj-sherrill-voter-id-law-noncitizen/",
+        "publishedAt": "2026-08-06",
+        "relevanceSummary": "This article discusses renewed debate over a New Jersey voter-ID law after Gov. Sherrill’s comments, which is directly relevant because any statewide ID-rule change would apply to NJ-07 voters. It is specifically about voter identification requirements for election access.",
+        "tag": "voter-id",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-08-05-nj07-auto",
-      "startedAt": "2026-08-05T06:34:23.557Z",
-      "completedAt": "2026-08-05T06:35:47.873Z",
+      "id": "run-2026-08-12-nj07-auto",
+      "startedAt": "2026-08-12T05:35:48.439Z",
+      "completedAt": "2026-08-12T05:36:49.033Z",
       "triggerType": "scheduled",
       "sourcesChecked": 14,
-      "updatesCreated": 8,
+      "updatesCreated": 6,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-08-05 for NJ-07. Sources checked: 14. LLM verifications: 15. 1 lastVerified bump on unchanged sources."
+      "summary": "Automated refresh completed 2026-08-12 for NJ-07. Sources checked: 14. LLM verifications: 15. 1 lastVerified bump on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-08-12T06:35:47.873Z",
+    "NEXT_REFRESH_AT": "2026-08-19T05:36:49.033Z",
     "WEEKLY_REPORT": {
       "id": "wr-nj07-2026-w24",
       "periodStart": "2026-06-08",

@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-08-12",
-  "updatedAt": "2026-08-12T05:36:49.033Z",
-  "exportedAt": "2026-08-12T05:48:56.721Z",
+  "dataAsOf": "2026-08-19",
+  "updatedAt": "2026-08-19T04:52:26.217Z",
+  "exportedAt": "2026-08-19T05:09:14.123Z",
   "districtCode": "NJ-07",
   "data": {
     "DISTRICT": {
@@ -91,7 +91,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-08-12",
+        "lastVerified": "2026-08-19",
         "confidence": "high",
         "notes": "Lt. Gov. Dr. Dale G. Caldwell is Secretary of State as of January 2026. Official voter portal: vote.nj.gov."
       },
@@ -1253,20 +1253,80 @@
         "relevanceSummary": "This article discusses renewed debate over a New Jersey voter-ID law after Gov. Sherrill’s comments, which is directly relevant because any statewide ID-rule change would apply to NJ-07 voters. It is specifically about voter identification requirements for election access.",
         "tag": "voter-id",
         "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-0csr6gf",
+        "headline": "A Guide to Early Voting",
+        "sourceName": "Brennan Center for Justice",
+        "url": "https://www.brennancenter.org/our-work/research-reports/guide-early-voting",
+        "publishedAt": "2026-08-18",
+        "relevanceSummary": "This national guide notes that in 2026 New Jersey expanded early voting periods and made it easier to apply for and cure mail ballots, directly affecting when and how NJ-07 voters can cast ballots in person before Election Day and fix problems with mail-in ballot envelopes.[2] It provides context on early voting, mail voting, and ballot drop-box returns that apply statewide to all New Jersey voters.",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-0yx335h",
+        "headline": "TAPinto Nutley's Deadlines and Policies the November 3, 2026 Election",
+        "sourceName": "TAPinto Nutley",
+        "url": "https://www.tapinto.net/towns/nutley/sections/community-announcements/articles/tapinto-nutley-s-deadlines-and-policies-the-november-3-2026-election",
+        "publishedAt": "2026-08-17",
+        "relevanceSummary": "This local voter-resource article outlines New Jersey’s key deadlines for voter registration, absentee/mail-in ballot requests, early voting dates, and drop-box return cutoffs for the November 3, 2026 general election, using Essex County examples that still reflect statewide procedural timelines.[10] NJ-07 voters can use these dates as a guide to ensure their registration and mail ballots are submitted on time, even though specific locations will differ.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-0wvc9e3",
+        "headline": "New Jersey Weekly: Aug. 14, 2026",
+        "sourceName": "The Jersey Bee",
+        "url": "https://jerseybee.org/2026/08/14/new-jersey-weekly-aug-14-2026/",
+        "publishedAt": "2026-08-14",
+        "relevanceSummary": "This statewide roundup discusses a measure that requires state approval for election changes, mandates public involvement in redistricting, and allows people to report violations before suing, signaling potential changes in how election procedures and oversight are handled in New Jersey.[13] Such structural rules would shape how NJ-07’s election administration and any local process changes are reviewed and implemented.",
+        "tag": "legal",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-0mpjzol",
+        "headline": "The Right to Vote is Protected in New Jersey – That's the Law",
+        "sourceName": "ACLU of New Jersey",
+        "url": "https://www.aclu-nj.org/news/the-right-to-vote-is-protected-in-new-jersey-thats-the-law/",
+        "publishedAt": "2026-08-14",
+        "relevanceSummary": "This piece explains New Jersey’s legal protections against voter intimidation, deception, and obstruction and calls for a central hub of official election information, highlighting rights and safeguards that apply to all NJ-07 voters statewide.[1] It helps voters understand how the state enforces access to the ballot and what procedural protections exist around voting.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-0hw1746",
+        "headline": "Engaging Youth in the Election Process",
+        "sourceName": "Donlon Peter Paul",
+        "url": "https://www.donlonpeterpaul.com/engaging_youth_in_the_election_process",
+        "publishedAt": "2026-08-13",
+        "relevanceSummary": "This civic-focused resource describes New Jersey’s voter registration deadline, the mandated evening registration sessions, and specific mail-in ballot application and early voting dates for the November 3, 2026 general election, using Monmouth County information that reflects statewide procedures.[11] It is useful for NJ-07 youth and first-time voters seeking practical guidance on how and when to register and vote early or by mail.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-0syvnnz",
+        "headline": "2026 Election Enactments",
+        "sourceName": "National Conference of State Legislatures",
+        "url": "https://www.ncsl.org/elections-and-campaigns/2026-election-enactments",
+        "publishedAt": "2026-08-12",
+        "relevanceSummary": "This legislative roundup notes that New Jersey AB 4745 reduces the early voting period for municipal elections from 11 days to eight days if adopted by local governing bodies, a change that could alter early in-person voting windows for NJ-07 municipalities and their voters.[6] It is relevant for understanding how local adoption of the new law may affect early voting schedules before the November general.",
+        "tag": "legislation",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-08-12-nj07-auto",
-      "startedAt": "2026-08-12T05:35:48.439Z",
-      "completedAt": "2026-08-12T05:36:49.033Z",
+      "id": "run-2026-08-19-nj07-auto",
+      "startedAt": "2026-08-19T04:51:01.645Z",
+      "completedAt": "2026-08-19T04:52:26.217Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 14,
+      "sourcesChecked": 13,
       "updatesCreated": 6,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-08-12 for NJ-07. Sources checked: 14. LLM verifications: 15. 1 lastVerified bump on unchanged sources."
+      "summary": "Automated refresh completed 2026-08-19 for NJ-07. Sources checked: 13. LLM verifications: 14. 1 lastVerified bump on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-08-19T05:36:49.033Z",
+    "NEXT_REFRESH_AT": "2026-08-26T04:52:26.217Z",
     "WEEKLY_REPORT": {
       "id": "wr-nj07-2026-w24",
       "periodStart": "2026-06-08",

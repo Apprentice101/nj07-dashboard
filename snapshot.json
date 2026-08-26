@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-08-19",
-  "updatedAt": "2026-08-19T04:52:26.217Z",
-  "exportedAt": "2026-08-19T05:09:14.123Z",
+  "dataAsOf": "2026-08-26",
+  "updatedAt": "2026-08-26T04:57:34.762Z",
+  "exportedAt": "2026-08-26T05:17:13.374Z",
   "districtCode": "NJ-07",
   "data": {
     "DISTRICT": {
@@ -91,7 +91,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-08-19",
+        "lastVerified": "2026-08-26",
         "confidence": "high",
         "notes": "Lt. Gov. Dr. Dale G. Caldwell is Secretary of State as of January 2026. Official voter portal: vote.nj.gov."
       },
@@ -1313,20 +1313,100 @@
         "relevanceSummary": "This legislative roundup notes that New Jersey AB 4745 reduces the early voting period for municipal elections from 11 days to eight days if adopted by local governing bodies, a change that could alter early in-person voting windows for NJ-07 municipalities and their voters.[6] It is relevant for understanding how local adoption of the new law may affect early voting schedules before the November general.",
         "tag": "legislation",
         "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-0zgytqu",
+        "headline": "Election 2026: SCOTUS lifts block on Trump mail ballot order",
+        "sourceName": "WHYY",
+        "url": "https://whyy.org/articles/election-2026-trump-supreme-court-mail-ballot-ruling/",
+        "publishedAt": "2026-08-25",
+        "relevanceSummary": "This is relevant to NJ-07 voters because it involves a federal ruling that could affect mail-ballot procedures used by New Jersey voters in the general election. WHYY reports the Supreme Court cleared the administration to move forward with portions of an order targeting mail voting after an injunction was lifted.",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-0qmljhe",
+        "headline": "State admits it stopped enforcing petition law as GOP fights to keep Libertarian off NJ-7 ballot",
+        "sourceName": "New Jersey Globe",
+        "url": "https://newjerseyglobe.com/congress/state-admits-it-stopped-enforcing-petition-law-as-gop-fights-to-keep-libertarian-off-nj-7-ballot/",
+        "publishedAt": "2026-08-24",
+        "relevanceSummary": "This directly affects NJ-07 voters because it concerns whether a congressional candidate will qualify for the November ballot in the district. The article says New Jersey election officials stopped enforcing a petition-circulator residency law, and a federal judge is expected to rule on Libertarian candidate Lana Leguía’s ballot status by August 31.",
+        "tag": "ballot-access",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-07o3fqt",
+        "headline": "USPS makes new rules for mail-in ballots",
+        "sourceName": "KVIA",
+        "url": "https://kvia.com/news/2026/08/23/usps-makes-new-rules-for-mail-in-ballots/",
+        "publishedAt": "2026-08-23",
+        "relevanceSummary": "This is relevant to NJ-07 voters because it describes a federal mail-ballot policy that could affect New Jersey’s vote-by-mail process. The article says the Postal Service’s changes would require states to collect and report voter information tied to each ballot before mailing.",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-0ooro23",
+        "headline": "USPS announces new mail-in ballot guidelines",
+        "sourceName": "The Hill",
+        "url": "https://thehill.com/homenews/administration/6045248-usps-mail-in-voting-guidelines-tighten/",
+        "publishedAt": "2026-08-22",
+        "relevanceSummary": "This matters to NJ-07 voters because it covers a federal change that could affect how New Jersey mail ballots are handled for the general election. The Hill says the Postal Service’s new policy would require states to notify USPS about how they verify eligible voters before ballots are mailed.",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-0qqlnxy",
+        "headline": "USPS publishes new rule requiring states to submit voter data before mailing ballots",
+        "sourceName": "Turn to 10",
+        "url": "https://turnto10.com/news/nation-world/usps-publishes-new-rule-requiring-states-to-submit-voter-data-before-mailing-ballots-mail-in-united-states-postal-service-vote-voters-voter-fraud-politics-president-donald-trump",
+        "publishedAt": "2026-08-22",
+        "relevanceSummary": "This matters to NJ-07 voters because it could change how New Jersey sends vote-by-mail ballots for the November general election. The article says USPS adopted new standards requiring states to submit voter and ballot-tracking information through a federal portal before ballots enter the mailstream.",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-0fsfk1n",
+        "headline": "NJ removes about 5,100 voter registrations tied to MVC system error",
+        "sourceName": "News 12 New Jersey",
+        "url": "https://newjersey.news12.com/power-politics-socialism-surge-voter-registration-mess-gov-sherrill-signs-shield-law",
+        "publishedAt": "2026-08-22",
+        "relevanceSummary": "This matters to NJ-07 voters because it covers the statewide voter-roll cleanup and the process for fixing incorrect registrations. The segment says the state removed about 5,100 voter registrations tied to an MVC system error, which is directly relevant to election administration in every New Jersey county.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-0sapkjc",
+        "headline": "Gov Sherrill Says Thousands Removed From Nj Voter Lists After MVC Registration Error",
+        "sourceName": "News 12 New Jersey",
+        "url": "https://newjersey.news12.com/2026/08/20/gov-sherrill-says-thousands-removed-from-nj-voter-lists-after-mvc-registration-error/2Cpp7Jue2ZlhPlBw73Aqrj",
+        "publishedAt": "2026-08-20",
+        "relevanceSummary": "This is relevant to NJ-07 because it addresses a statewide voter-registration cleanup that could affect who appears on county voter rolls in the district. The story says about 5,100 noncitizens were removed from New Jersey’s voter rolls after a Motor Vehicle Commission registration error.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-0it5ekn",
+        "headline": "NJ removes over 5K from voter rolls after error let noncitizens vote",
+        "sourceName": "NorthJersey.com",
+        "url": "https://www.northjersey.com/story/news/new-jersey/2026/08/19/nj-voter-rolls-purge-error-non-citizens-vote/91374277007/",
+        "publishedAt": "2026-08-19",
+        "relevanceSummary": "This matters to NJ-07 voters because it concerns a statewide voter-registration correction that affects eligibility records across New Jersey. The article says more than 5,000 voters were removed from the rolls after an MVC registration error and that remaining changes will happen at the county level.",
+        "tag": "voter-info",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-08-19-nj07-auto",
-      "startedAt": "2026-08-19T04:51:01.645Z",
-      "completedAt": "2026-08-19T04:52:26.217Z",
+      "id": "run-2026-08-26-nj07-auto",
+      "startedAt": "2026-08-26T04:55:45.663Z",
+      "completedAt": "2026-08-26T04:57:34.762Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 13,
-      "updatesCreated": 6,
+      "sourcesChecked": 14,
+      "updatesCreated": 8,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-08-19 for NJ-07. Sources checked: 13. LLM verifications: 14. 1 lastVerified bump on unchanged sources."
+      "summary": "Automated refresh completed 2026-08-26 for NJ-07. Sources checked: 14. LLM verifications: 15. 1 lastVerified bump on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-08-26T04:52:26.217Z",
+    "NEXT_REFRESH_AT": "2026-09-02T04:57:34.762Z",
     "WEEKLY_REPORT": {
       "id": "wr-nj07-2026-w24",
       "periodStart": "2026-06-08",

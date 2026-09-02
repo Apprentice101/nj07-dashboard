@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-08-26",
-  "updatedAt": "2026-08-26T04:57:34.762Z",
-  "exportedAt": "2026-08-26T05:17:13.374Z",
+  "dataAsOf": "2026-09-02",
+  "updatedAt": "2026-09-02T08:46:25.374Z",
+  "exportedAt": "2026-09-02T09:11:04.538Z",
   "districtCode": "NJ-07",
   "data": {
     "DISTRICT": {
@@ -91,7 +91,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-08-26",
+        "lastVerified": "2026-09-02",
         "confidence": "high",
         "notes": "Lt. Gov. Dr. Dale G. Caldwell is Secretary of State as of January 2026. Official voter portal: vote.nj.gov."
       },
@@ -1393,20 +1393,100 @@
         "relevanceSummary": "This matters to NJ-07 voters because it concerns a statewide voter-registration correction that affects eligibility records across New Jersey. The article says more than 5,000 voters were removed from the rolls after an MVC registration error and that remaining changes will happen at the county level.",
         "tag": "voter-info",
         "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-0kbg9z9",
+        "headline": "Morris County Mail Ballots on Schedule as Federal USPS ...",
+        "sourceName": "Morristown Minute",
+        "url": "https://morristownminute.org/morris-county-mail-ballots-2026-election/",
+        "publishedAt": "2026-09-01",
+        "relevanceSummary": "This article details the mailing schedule for Morris County mail ballots, the deadline for mail ballot postmarks, and clarifies that completed mail ballots cannot be returned at early-voting or Election Day polling sites but must be mailed, placed in a secure drop box, or delivered to the county Board of Elections—key procedural information for NJ-07 voters in Morris County.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-0sac0u0",
+        "headline": "New Jersey",
+        "sourceName": "866-OUR-VOTE / Election Protection",
+        "url": "https://866ourvote.org/state/new-jersey/",
+        "publishedAt": "2026-08-29",
+        "relevanceSummary": "This statewide voter guide outlines New Jersey’s vote-by-mail rules, deadlines for returning ballots by mail or drop box, and identification requirements for first-time mail registrants and voters hand-delivering mail ballots, providing NJ-07 voters with up-to-date procedural and voter-ID information.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-0bqi9rc",
+        "headline": "Bernards Township NJ - Voting Information",
+        "sourceName": "Bernards Township (Somerset County)",
+        "url": "https://www.bernards.org/resident/voting?highlight=WyJ0aGUiLCJ0aGUiXQ==",
+        "publishedAt": "2026-08-28",
+        "relevanceSummary": "Bernards Township provides localized voting information, including county clerk contact details and links for voter services, offering a practical resource on polling, registration, and mail ballot procedures for NJ-07 voters residing in this Somerset County municipality.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-0buicvm",
+        "headline": "Union County Announces Conditional Special Ballot Drawing for September 1",
+        "sourceName": "Union County (press release via EIN Presswire)",
+        "url": "https://www.einpresswire.com/article/937898462/union-county-announces-conditional-special-ballot-drawing-for-september-1",
+        "publishedAt": "2026-08-28",
+        "relevanceSummary": "Union County announced a public drawing related to conditional special ballots and reminded voters about deadlines and procedures for applying for vote-by-mail ballots and accessing early voting locations, information that matters to NJ-07 residents who live in the Union County portion of the district.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-0szihcn",
+        "headline": "Judge Temporarily Blocks USPS Mail-Ballot Rule Challenged by New Jersey",
+        "sourceName": "Morristown Minute",
+        "url": "https://morristownminute.org/judge-pauses-usps-mail-ballot-rules-new-jersey-challenge/",
+        "publishedAt": "2026-08-28",
+        "relevanceSummary": "A federal judge temporarily halted implementation of new USPS mail-ballot restrictions in a case brought by New Jersey, allowing voters to continue following existing state mail ballot instructions and use the Track My Ballot portal, which directly affects mail-in voting reliability for NJ-07 voters.",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-075dqgh",
+        "headline": "Election workarounds for voters left confused by Trump mail rule",
+        "sourceName": "NJ Spotlight News",
+        "url": "https://www.njspotlightnews.org/2026/08/election-workarounds-for-voters-left-confused-by-trump-mail-rule",
+        "publishedAt": "2026-08-28",
+        "relevanceSummary": "NJ Spotlight News explains how New Jersey voters can respond to new federal mail ballot rules, including asking county clerks to remove them from permanent vote-by-mail status and using ballot tracking tools, providing statewide procedural guidance relevant to all NJ-07 voters.",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-0a0vzk3",
+        "headline": "No Electioneering Zone Expanded To 200 Feet At Polls, Drop Boxes In Somerset County",
+        "sourceName": "Patch (Bridgewater, NJ)",
+        "url": "https://patch.com/new-jersey/bridgewater/no-electioneering-zone-expanded-200-feet-polls-drop-boxes-somerset-county",
+        "publishedAt": "2026-08-28",
+        "relevanceSummary": "Somerset County officials expanded the no-electioneering zone around polling locations and ballot drop boxes to 200 feet, changing where campaign activity is allowed and affecting Election Day logistics for NJ-07 voters in Somerset County communities.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-0mstrw1",
+        "headline": "Morris County Clerk Announces Vote-by-Mail Opt-Out",
+        "sourceName": "Morris County, New Jersey (official site)",
+        "url": "https://www.morriscountynj.gov/Morris-County-News/Morris-County-Clerk-Announces-Vote-by-Mail-Opt-Out",
+        "publishedAt": "2026-08-28",
+        "relevanceSummary": "The Morris County Clerk explains how voters can remove themselves from the permanent vote-by-mail list by submitting an official opt-out form by August 31, 2026, and reminds those remaining on the list about mail ballot return options and ballot drop box locations—procedures that directly affect NJ-07 voters living in the Morris County portion of the district.",
+        "tag": "rule-change",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-08-26-nj07-auto",
-      "startedAt": "2026-08-26T04:55:45.663Z",
-      "completedAt": "2026-08-26T04:57:34.762Z",
+      "id": "run-2026-09-02-nj07-auto",
+      "startedAt": "2026-09-02T08:43:56.702Z",
+      "completedAt": "2026-09-02T08:46:25.374Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 14,
+      "sourcesChecked": 15,
       "updatesCreated": 8,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-08-26 for NJ-07. Sources checked: 14. LLM verifications: 15. 1 lastVerified bump on unchanged sources."
+      "summary": "Automated refresh completed 2026-09-02 for NJ-07. Sources checked: 15. LLM verifications: 16. 1 lastVerified bump on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-09-02T04:57:34.762Z",
+    "NEXT_REFRESH_AT": "2026-09-09T08:46:25.374Z",
     "WEEKLY_REPORT": {
       "id": "wr-nj07-2026-w24",
       "periodStart": "2026-06-08",

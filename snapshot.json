@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-09-02",
-  "updatedAt": "2026-09-02T08:46:25.374Z",
-  "exportedAt": "2026-09-02T09:11:04.538Z",
+  "dataAsOf": "2026-09-09",
+  "updatedAt": "2026-09-09T08:59:57.808Z",
+  "exportedAt": "2026-09-09T09:21:25.302Z",
   "districtCode": "NJ-07",
   "data": {
     "DISTRICT": {
@@ -91,7 +91,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-09-02",
+        "lastVerified": "2026-09-09",
         "confidence": "high",
         "notes": "Lt. Gov. Dr. Dale G. Caldwell is Secretary of State as of January 2026. Official voter portal: vote.nj.gov."
       },
@@ -1473,20 +1473,70 @@
         "relevanceSummary": "The Morris County Clerk explains how voters can remove themselves from the permanent vote-by-mail list by submitting an official opt-out form by August 31, 2026, and reminds those remaining on the list about mail ballot return options and ballot drop box locations—procedures that directly affect NJ-07 voters living in the Morris County portion of the district.",
         "tag": "rule-change",
         "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-05eqpkl",
+        "headline": "New Jersey Voter ID & Registration Deadline",
+        "sourceName": "Alto",
+        "url": "https://alto.gab.com/politics/voter-id/new-jersey",
+        "publishedAt": "2026-09-05",
+        "relevanceSummary": "Explains that most New Jersey voters are not asked for ID at the polls, but federal law requires certain first-time voters who registered by mail to show photo ID or a document like a utility bill, clarifying voter-ID expectations for NJ-07 residents.[6]",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-0ii1s0d",
+        "headline": "New Jersey Weekly: Sep. 4, 2026",
+        "sourceName": "The Jersey Bee",
+        "url": "https://jerseybee.org/2026/09/04/new-jersey-weekly-sep-4-2026/",
+        "publishedAt": "2026-09-04",
+        "relevanceSummary": "Notes that New Jersey residents ages 16+ can apply to be election poll workers in their county and lists statewide in-person early voting dates of Oct. 24 to Nov. 1 and general election day as Nov. 3, providing NJ-07 voters with key participation and polling information.[12]",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-0u31ezr",
+        "headline": "2026 Election Information and Results",
+        "sourceName": "New Jersey Division of Elections",
+        "url": "https://www.nj.gov/state/elections/election-information-2026.shtml",
+        "publishedAt": "2026-09-04",
+        "relevanceSummary": "Provides statewide 2026 general election timeline and certification procedures by the New Jersey Secretary of State, outlining official deadlines and candidate certification processes that govern the November general election for all NJ-07 voters.[5]",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-09pjx93",
+        "headline": "Morris County Vote-By-Mail Ballots Set to Begin Mailing",
+        "sourceName": "Morris Focus",
+        "url": "https://morrisfocus.com/2026/08/30/morris-county-vote-by-mail-ballots-set-to-begin-mailing/",
+        "publishedAt": "2026-08-30",
+        "relevanceSummary": "Announces that Morris County vote-by-mail ballots are beginning to be mailed and urges voters to return completed ballots by mail at least seven days before Election Day or deposit them in a secure ballot drop box, directly affecting NJ-07 residents in the county.[9]",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-0cvrhs8",
+        "headline": "NOVEMBER 3, 2026, GENERAL ELECTION VOTE BY MAIL STATUS",
+        "sourceName": "Morris County Clerk",
+        "url": "https://www.morriscountyclerk.org/News/NOVEMBER-3-2026-GENERAL-ELECTION-VOTE-BY-MAIL-STATUS",
+        "publishedAt": "2026-08-26",
+        "relevanceSummary": "Provides Morris County vote-by-mail status and strongly recommends NJ-07 voters who receive mail ballots return them at least seven days before Election Day or use secure county drop boxes, with a memo listing drop box locations included in the ballot envelope.[2]",
+        "tag": "administration",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-09-02-nj07-auto",
-      "startedAt": "2026-09-02T08:43:56.702Z",
-      "completedAt": "2026-09-02T08:46:25.374Z",
+      "id": "run-2026-09-09-nj07-auto",
+      "startedAt": "2026-09-09T08:57:08.085Z",
+      "completedAt": "2026-09-09T08:59:57.808Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 15,
-      "updatesCreated": 8,
+      "sourcesChecked": 14,
+      "updatesCreated": 5,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-09-02 for NJ-07. Sources checked: 15. LLM verifications: 16. 1 lastVerified bump on unchanged sources."
+      "summary": "Automated refresh completed 2026-09-09 for NJ-07. Sources checked: 14. LLM verifications: 16. 1 lastVerified bump on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-09-09T08:46:25.374Z",
+    "NEXT_REFRESH_AT": "2026-09-16T08:59:57.808Z",
     "WEEKLY_REPORT": {
       "id": "wr-nj07-2026-w24",
       "periodStart": "2026-06-08",

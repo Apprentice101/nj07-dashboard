@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-09-09",
-  "updatedAt": "2026-09-09T08:59:57.808Z",
-  "exportedAt": "2026-09-09T09:21:25.302Z",
+  "dataAsOf": "2026-09-16",
+  "updatedAt": "2026-09-16T09:31:28.019Z",
+  "exportedAt": "2026-09-16T09:52:55.585Z",
   "districtCode": "NJ-07",
   "data": {
     "DISTRICT": {
@@ -91,7 +91,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-09-09",
+        "lastVerified": "2026-09-16",
         "confidence": "high",
         "notes": "Lt. Gov. Dr. Dale G. Caldwell is Secretary of State as of January 2026. Official voter portal: vote.nj.gov."
       },
@@ -1523,20 +1523,100 @@
         "relevanceSummary": "Provides Morris County vote-by-mail status and strongly recommends NJ-07 voters who receive mail ballots return them at least seven days before Election Day or use secure county drop boxes, with a memo listing drop box locations included in the ballot envelope.[2]",
         "tag": "administration",
         "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-0myrclq",
+        "headline": "Somerset County To Open Ballot Drop Boxes Sept. 15 For November Election",
+        "sourceName": "Patch (Bridgewater)",
+        "url": "https://new.patch.com/new-jersey/bridgewater/somerset-county-open-ballot-drop-boxes-sept-15-november-election",
+        "publishedAt": "2026-09-15",
+        "relevanceSummary": "Local notice that Somerset County ballot drop boxes are opening for the November general election, giving NJ‑07 residents in county communities practical information on where and when they can return mail‑in ballots.[8]",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-0s0g84a",
+        "headline": "Somerset County Ballot Drop Boxes Open Sept. 15 to Receive Early Vote Ballots",
+        "sourceName": "TAPinto Somerville",
+        "url": "https://www.tapinto.net/towns/somerville/sections/elections/articles/somerset-county-ballot-drop-boxes-open-sept-15-to-receive-early-vote-ballots",
+        "publishedAt": "2026-09-15",
+        "relevanceSummary": "Announces opening dates and use of ballot drop boxes in Somerset County, which includes parts of NJ‑07, and notes the extended 200‑foot no‑electioneering zone at poll and drop‑box locations that affects how voters can access these sites.[4]",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-0ogz27l",
+        "headline": "How do I register to vote in New Jersey? 2026 voter guide",
+        "sourceName": "NorthJersey.com",
+        "url": "https://www.northjersey.com/videos/news/2026/09/15/how-to-register-to-vote-new-jersey-national-voter-registration-day-today/91774877007/",
+        "publishedAt": "2026-09-15",
+        "relevanceSummary": "Video voter guide summarizing registration methods, how to check registration status, and key statewide deadlines for the 2026 general election, offering NJ‑07 voters a concise overview of current rules.[2]",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-0mu3ocm",
+        "headline": "What is the voter registration deadline in New Jersey?",
+        "sourceName": "NorthJersey.com",
+        "url": "https://www.northjersey.com/story/news/2026/09/15/how-to-register-to-vote-in-nj-2026-deadline-early-voting/91771982007/",
+        "publishedAt": "2026-09-15",
+        "relevanceSummary": "Details New Jersey’s Oct. 13 voter registration deadline, early‑voting period dates and hours, and explains provisional ballot use and county‑specific early voting locations, all of which apply to NJ‑07 counties.[5]",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-08hwh02",
+        "headline": "It's National Voter Registration Day. How do I register to vote in New Jersey?",
+        "sourceName": "NorthJersey.com",
+        "url": "https://www.northjersey.com/story/news/2026/09/15/how-to-register-to-vote-new-jersey-national-voter-registration-day/91773915007/",
+        "publishedAt": "2026-09-15",
+        "relevanceSummary": "Provides statewide guidance for New Jersey voters on how to register online, by mail, or through county election officials, and highlights the Oct. 13, 2026 voter registration deadline, which directly governs eligibility for NJ‑07 voters.[3]",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-0zfky8c",
+        "headline": "Voting by mail in New Jersey? Supreme Court ruling clears the way",
+        "sourceName": "Yahoo News",
+        "url": "https://www.yahoo.com/news/politics/articles/voting-mail-jersey-supreme-court-095024044.html",
+        "publishedAt": "2026-09-15",
+        "relevanceSummary": "Explains current New Jersey vote‑by‑mail procedures, including how NJ‑07 voters can apply for mail ballots, deadlines for postmarks, and options to return ballots via mail, secure drop boxes, or county election offices.[1]",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-0o8z6hi",
+        "headline": "Morris School District Bond Referendum Vote Set for Tuesday",
+        "sourceName": "TAPinto Morristown",
+        "url": "https://www.tapinto.net/towns/morristown/sections/elections/articles/morris-school-district-bond-referendum-vote-set-for-tuesday",
+        "publishedAt": "2026-09-14",
+        "relevanceSummary": "While focused on a local referendum, the article reiterates New Jersey’s vote‑by‑mail rules on postmark deadlines, use of ballot drop boxes, return to the county Board of Elections, and the prohibition on mail‑in voters using voting machines, clarifying procedures for NJ‑07 voters in Morris County.[10]",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-0t932vj",
+        "headline": "Sherrill declines to discuss Caldwell investigation, says election preparations remain on track",
+        "sourceName": "New Jersey Globe",
+        "url": "https://newjerseyglobe.com/fr/sherrill-declines-to-discuss-caldwell-investigation-says-election-preparations-remain-on-track/",
+        "publishedAt": "2026-09-10",
+        "relevanceSummary": "Reports that the Secretary of State’s office is continuing statewide coordination with county election officials and that vote‑by‑mail ballots will begin going out on September 19, reassuring NJ‑07 voters about the status and timing of ballot distribution despite an ongoing investigation.[9]",
+        "tag": "administration",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-09-09-nj07-auto",
-      "startedAt": "2026-09-09T08:57:08.085Z",
-      "completedAt": "2026-09-09T08:59:57.808Z",
+      "id": "run-2026-09-16-nj07-auto",
+      "startedAt": "2026-09-16T09:24:26.514Z",
+      "completedAt": "2026-09-16T09:31:28.019Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 14,
-      "updatesCreated": 5,
+      "sourcesChecked": 17,
+      "updatesCreated": 8,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-09-09 for NJ-07. Sources checked: 14. LLM verifications: 16. 1 lastVerified bump on unchanged sources."
+      "summary": "Automated refresh completed 2026-09-16 for NJ-07. Sources checked: 17. LLM verifications: 17. 1 lastVerified bump on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-09-16T08:59:57.808Z",
+    "NEXT_REFRESH_AT": "2026-09-23T09:31:28.019Z",
     "WEEKLY_REPORT": {
       "id": "wr-nj07-2026-w24",
       "periodStart": "2026-06-08",

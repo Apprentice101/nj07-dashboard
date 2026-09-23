@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-09-16",
-  "updatedAt": "2026-09-16T09:31:28.019Z",
-  "exportedAt": "2026-09-16T09:52:55.585Z",
+  "dataAsOf": "2026-09-23",
+  "updatedAt": "2026-09-23T09:20:20.207Z",
+  "exportedAt": "2026-09-23T09:39:19.752Z",
   "districtCode": "NJ-07",
   "data": {
     "DISTRICT": {
@@ -91,7 +91,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-09-16",
+        "lastVerified": "2026-09-23",
         "confidence": "high",
         "notes": "Lt. Gov. Dr. Dale G. Caldwell is Secretary of State as of January 2026. Official voter portal: vote.nj.gov."
       },
@@ -1603,20 +1603,90 @@
         "relevanceSummary": "Reports that the Secretary of State’s office is continuing statewide coordination with county election officials and that vote‑by‑mail ballots will begin going out on September 19, reassuring NJ‑07 voters about the status and timing of ballot distribution despite an ongoing investigation.[9]",
         "tag": "administration",
         "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-0i3v499",
+        "headline": "Voting in NJ unchanged following Supreme Court decision",
+        "sourceName": "NJ Spotlight News",
+        "url": "https://www.njspotlightnews.org/2026/09/methods-of-voting-in-nj-unchanged-this-year-following-supreme-court-decision/",
+        "publishedAt": "2026-09-22",
+        "relevanceSummary": "The article reports that New Jersey voters may continue using vote-by-mail, early in-person voting, or Election Day voting after the Supreme Court left existing procedures in place. It also explains mail-ballot return options, including USPS, county election offices, and secure drop boxes.",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-040c956",
+        "headline": "Morris County Clerk: Vote-by-Mail Ballots to Begin Mailing by Sept. 19",
+        "sourceName": "TAPinto Morristown",
+        "url": "https://www.tapinto.net/towns/morristown/sections/elections/articles/morris-county-clerk-vote-by-mail-ballots-to-begin-mailing-by-sept-19",
+        "publishedAt": "2026-09-21",
+        "relevanceSummary": "Morris County, which includes part of NJ-07, announced that vote-by-mail ballots would begin mailing by September 19. The article explains opt-out procedures, early-voting locations, and the recommendation to return ballots by mail at least seven days before Election Day or use a secure drop box.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-0pse7z8",
+        "headline": "Alito rejects Leguía’s last-ditch bid to get on NJ-7 ballot",
+        "sourceName": "New Jersey Globe",
+        "url": "https://newjerseyglobe.com/congress/alito-rejects-leguias-last-ditch-bid-to-get-on-nj-7-ballot/",
+        "publishedAt": "2026-09-20",
+        "relevanceSummary": "The article reports that Justice Alito rejected a final effort by Leguía to appear on the NJ-7 general-election ballot. It also notes that vote-by-mail ballots were being sent in the district’s congressional race.",
+        "tag": "ballot-access",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-02yc2gz",
+        "headline": "Vote 2026: New Jersey election voting guide",
+        "sourceName": "News 12 New Jersey",
+        "url": "https://newjersey.news12.com/vote-2026-new-jersey-election-voting-guide",
+        "publishedAt": "2026-09-17",
+        "relevanceSummary": "The statewide voting guide gives New Jersey voters procedural information, including polling hours of 6 a.m. to 8 p.m. on Election Day. Those rules apply directly to voters in NJ-07.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-0fp0fks",
+        "headline": "We took a look at NJ's voter rolls. Here's what we found",
+        "sourceName": "NorthJersey.com",
+        "url": "https://www.northjersey.com/story/news/new-jersey/2026/09/17/we-analyzed-njs-voter-rolls-ahead-of-election-heres-what-data-shows/91782869007/",
+        "publishedAt": "2026-09-17",
+        "relevanceSummary": "The article examines New Jersey voter-roll data and provides statewide election dates relevant to NJ-07 voters, including the October 13 voter-registration deadline, October 24–November 1 early voting period, and November 3 Election Day.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-0ugaq7u",
+        "headline": "Essex County Clerk Gives Vote-By-Mail Update After Supreme Court Ruling",
+        "sourceName": "Patch",
+        "url": "https://patch.com/new-jersey/westorange/essex-county-clerk-gives-update-voting-mail-after-supreme-court-ruling",
+        "publishedAt": "2026-09-17",
+        "relevanceSummary": "The article describes New Jersey’s continuing no-excuse mail-voting system and explains that ballots may be returned by mail, secure drop box, or county election office. It also states the application deadline and ballot receipt requirements following the Supreme Court ruling.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-0ygbvor",
+        "headline": "Somerset County Vote-by-Mail Ballots Set to Go Out Sept. 19 Amid Federal Litigation",
+        "sourceName": "TAPinto Warren",
+        "url": "https://www.tapinto.net/towns/warren/sections/elections/articles/somerset-county-vote-by-mail-ballots-set-to-go-out-sept-19-amid-federal-litigation",
+        "publishedAt": "2026-09-16",
+        "relevanceSummary": "Somerset County, part of NJ-07, planned to issue 2026 general-election vote-by-mail ballots beginning September 19 despite litigation over federal delivery requirements. The article provides procedures for voters who do not receive ballots, opt out of mail voting, and return completed ballots.",
+        "tag": "litigation",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-09-16-nj07-auto",
-      "startedAt": "2026-09-16T09:24:26.514Z",
-      "completedAt": "2026-09-16T09:31:28.019Z",
+      "id": "run-2026-09-23-nj07-auto",
+      "startedAt": "2026-09-23T09:18:59.213Z",
+      "completedAt": "2026-09-23T09:20:20.207Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 17,
-      "updatesCreated": 8,
+      "sourcesChecked": 15,
+      "updatesCreated": 7,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-09-16 for NJ-07. Sources checked: 17. LLM verifications: 17. 1 lastVerified bump on unchanged sources."
+      "summary": "Automated refresh completed 2026-09-23 for NJ-07. Sources checked: 15. LLM verifications: 16. 1 lastVerified bump on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-09-23T09:31:28.019Z",
+    "NEXT_REFRESH_AT": "2026-09-30T09:20:20.207Z",
     "WEEKLY_REPORT": {
       "id": "wr-nj07-2026-w24",
       "periodStart": "2026-06-08",

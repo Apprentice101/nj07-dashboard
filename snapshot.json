@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-09-23",
-  "updatedAt": "2026-09-23T09:20:20.207Z",
-  "exportedAt": "2026-09-23T09:39:19.752Z",
+  "dataAsOf": "2026-09-30",
+  "updatedAt": "2026-09-30T10:23:52.984Z",
+  "exportedAt": "2026-09-30T10:39:24.077Z",
   "districtCode": "NJ-07",
   "data": {
     "DISTRICT": {
@@ -91,7 +91,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-09-23",
+        "lastVerified": "2026-09-30",
         "confidence": "high",
         "notes": "Lt. Gov. Dr. Dale G. Caldwell is Secretary of State as of January 2026. Official voter portal: vote.nj.gov."
       },
@@ -1673,20 +1673,70 @@
         "relevanceSummary": "Somerset County, part of NJ-07, planned to issue 2026 general-election vote-by-mail ballots beginning September 19 despite litigation over federal delivery requirements. The article provides procedures for voters who do not receive ballots, opt out of mail voting, and return completed ballots.",
         "tag": "litigation",
         "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-034j8d2",
+        "headline": "Voter Registration Deadline for the November 3 General Election is Tuesday, October 13",
+        "sourceName": "Union County Board of Elections",
+        "url": "https://ucnj.org/press-releases/public-info/2026/09/29/voter-registration-deadline-for-the-november-3-general-election-is-tuesday-october-13/",
+        "publishedAt": "2026-09-29",
+        "relevanceSummary": "Union County election officials remind eligible residents that October 13 is the registration deadline and explain online, mail, and in-person registration options. Union County includes part of NJ-07, making the deadline and correction process directly relevant to district voters there.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-0ukbolq",
+        "headline": "September 2026 Ballot Access News Print Edition",
+        "sourceName": "Ballot Access News",
+        "url": "https://ballot-access.org/2026/09/27/september-2026-ballot-access-news-print-edition/",
+        "publishedAt": "2026-09-27",
+        "relevanceSummary": "The article reports that a federal judge refused to order New Jersey to place Libertarian Lana Leguia on the ballot for the 7th Congressional District, directly affecting NJ-07 ballot access and the candidates appearing on the November ballot.",
+        "tag": "ballot-access",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-0qup8ng",
+        "headline": "County offers multiple convenient ways to vote in the 2026 general election",
+        "sourceName": "Central Jersey Media",
+        "url": "https://centraljersey.media/papers/suburban/county-offers-multiple-convenient-ways-to-vote-in-the-2026-general-election/",
+        "publishedAt": "2026-09-25",
+        "relevanceSummary": "The county election guidance explains that New Jersey’s existing vote-by-mail procedures remain in place, including return through secure drop boxes, the Board of Elections, or USPS. It lists October 13 as the voter-registration deadline, October 27 as the mail-ballot application deadline, and November 2 at 3 p.m. as the in-person application deadline.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-0eugg9j",
+        "headline": "GOP lawmaker proposes five NJ election security bills",
+        "sourceName": "Jersey Vindicator",
+        "url": "https://jerseyvindicator.org/2026/09/24/gop-lawmaker-proposes-five-nj-election-security-bills/",
+        "publishedAt": "2026-09-24",
+        "relevanceSummary": "The proposed legislation would require photo identification for in-person voting and establish twice-yearly county voter-roll audits. The photo-ID proposal is not current law, but it could change voting procedures statewide, including for NJ-07 voters, if enacted.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-08ajbbx",
+        "headline": "New Jersey election 2026: Your 7th Congressional District voter guide",
+        "sourceName": "WHYY",
+        "url": "https://whyy.org/articles/election-2026-new-jersey-7th-congressional-district-voter-guide/",
+        "publishedAt": "2026-09-24",
+        "relevanceSummary": "This NJ-07-specific voter guide provides voting logistics for the November 3 general election, alongside information about the congressional candidates and contest.",
+        "tag": "voter-resource",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-09-23-nj07-auto",
-      "startedAt": "2026-09-23T09:18:59.213Z",
-      "completedAt": "2026-09-23T09:20:20.207Z",
+      "id": "run-2026-09-30-nj07-auto",
+      "startedAt": "2026-09-30T10:22:39.020Z",
+      "completedAt": "2026-09-30T10:23:52.984Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 15,
-      "updatesCreated": 7,
+      "sourcesChecked": 13,
+      "updatesCreated": 5,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-09-23 for NJ-07. Sources checked: 15. LLM verifications: 16. 1 lastVerified bump on unchanged sources."
+      "summary": "Automated refresh completed 2026-09-30 for NJ-07. Sources checked: 13. LLM verifications: 14. 1 lastVerified bump on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-09-30T09:20:20.207Z",
+    "NEXT_REFRESH_AT": "2026-10-07T10:23:52.984Z",
     "WEEKLY_REPORT": {
       "id": "wr-nj07-2026-w24",
       "periodStart": "2026-06-08",

@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-09-30",
-  "updatedAt": "2026-09-30T10:23:52.984Z",
-  "exportedAt": "2026-09-30T10:39:24.077Z",
+  "dataAsOf": "2026-10-07",
+  "updatedAt": "2026-10-07T10:59:37.958Z",
+  "exportedAt": "2026-10-07T11:14:42.075Z",
   "districtCode": "NJ-07",
   "data": {
     "DISTRICT": {
@@ -91,7 +91,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-09-30",
+        "lastVerified": "2026-10-07",
         "confidence": "high",
         "notes": "Lt. Gov. Dr. Dale G. Caldwell is Secretary of State as of January 2026. Official voter portal: vote.nj.gov."
       },
@@ -1723,20 +1723,100 @@
         "relevanceSummary": "This NJ-07-specific voter guide provides voting logistics for the November 3 general election, alongside information about the congressional candidates and contest.",
         "tag": "voter-resource",
         "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-0dj04e0",
+        "headline": "Union County Announces Availability of Vote-by-Mail Ballots for November 3 General Election",
+        "sourceName": "Union County",
+        "url": "https://www.einpresswire.com/article/947736183/union-county-announces-availability-of-vote-by-mail-ballots-for-november-3-general-election",
+        "publishedAt": "2026-10-06",
+        "relevanceSummary": "Union County announced that vote-by-mail ballots are available for the November 3 general election and reminded voters that New Jersey law requires mailed ballots to be postmarked by Election Day. Union is partly within NJ-07, making the notice directly relevant to district voters.",
+        "tag": "ballot-access",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-04vtjgg",
+        "headline": "Superintendent of Elections Office Staying Open Late on October 13 for Voter Registration Deadline",
+        "sourceName": "Hudson County View",
+        "url": "https://www.einpresswire.com/article/947541440/superintendent-of-elections-office-staying-open-late-on-october-13-for-voter-registration-deadline",
+        "publishedAt": "2026-10-05",
+        "relevanceSummary": "The notice says the elections office will remain open late for New Jersey’s October 13 registration deadline and provides online, mailed, and hand-delivered registration options. The statewide deadline applies to eligible NJ-07 voters, although the office described may be outside the district.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-0r81142",
+        "headline": "How to register to vote, find a polling place in Pennsylvania, New Jersey and Delaware before Election Day",
+        "sourceName": "CBS News Philadelphia",
+        "url": "https://www.cbsnews.com/philadelphia/news/polling-place-pennsylvania-new-jersey-delaware/",
+        "publishedAt": "2026-10-03",
+        "relevanceSummary": "The article explains New Jersey registration, polling-place lookup, mail-ballot application, county drop-box use, and the October 27 mail-ballot deadline—procedures applicable to NJ-07 voters.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-0da7jwz",
+        "headline": "ACLU-NJ demands Ocean County halt 'unlawful' Bay Head voter challenge",
+        "sourceName": "NJ.com",
+        "url": "https://www.nj.com/news/2026/10/jersey-shore-voter-challenge-unfairly-targeted-democrats-and-independents-aclu-says.html",
+        "publishedAt": "2026-10-02",
+        "relevanceSummary": "The report describes a legal challenge to Ocean County voter challenges and says affected voters could cast provisional ballots subject to later court review. It is outside NJ-07 but is a New Jersey election-administration and ballot-challenge development with possible precedential relevance.",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-0q685hk",
+        "headline": "After voter-roll error, N.J. Assemblyman Sauickie proposes voter ID, mail ballot changes",
+        "sourceName": "NJ.com",
+        "url": "https://www.nj.com/politics/2026/10/after-glitch-allowed-thousands-of-noncitizens-to-vote-nj-republican-pushes-for-election-overhaul.html",
+        "publishedAt": "2026-10-01",
+        "relevanceSummary": "The article reports proposed statewide legislation that would change New Jersey mail-ballot receipt rules and impose voter-identification requirements. The measures are proposals rather than current rules, but they could affect NJ-07 voters if enacted.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-0mmbury",
+        "headline": "Your Guide To Voting In NJ: Check If You're Registered, When To Vote, What To Know",
+        "sourceName": "Daily Voice",
+        "url": "https://dailyvoice.com/article/youre-guide-to-voting-in-nj-check-if-youre-registered-when-to-vote-what-to-know/",
+        "publishedAt": "2026-10-01",
+        "relevanceSummary": "The statewide guide covers early voting, mail-ballot deadlines, drop boxes, county-board returns, polling hours, polling-place lookup, and the rule that mail ballots cannot be returned at early-voting sites or Election Day polling places.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-0g0sq4u",
+        "headline": "How to register to vote in NJ for the 2026 midterm elections",
+        "sourceName": "FOX 29 Philadelphia",
+        "url": "https://www.fox29.com/election/new-jersey-2026-midterm-election-key-deadlines-early-voting-dates-how-register",
+        "publishedAt": "2026-10-01",
+        "relevanceSummary": "This statewide guide lists New Jersey’s October 13 registration deadline, October 24–November 1 early-voting period, October 27 mail-ballot application deadline, county drop-box and election-office return options, and the Election Day postmark rule.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-0kd3o7x",
+        "headline": "Voter Registration Deadline for Nov. 3 General Election Is Approaching on Oct. 13",
+        "sourceName": "TAPinto Scotch Plains-Fanwood",
+        "url": "https://www.tapinto.net/towns/scotch-plains-slash-fanwood/sections/elections/articles/voter-registration-deadline-for-nov-3-general-election-is-approaching-on-oct-13",
+        "publishedAt": "2026-09-30",
+        "relevanceSummary": "The Union County article explains the October 13 registration deadline and provides online, paper, and in-person registration methods. Union County includes communities within NJ-07, so the registration guidance is directly relevant to district voters.",
+        "tag": "deadline",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-09-30-nj07-auto",
-      "startedAt": "2026-09-30T10:22:39.020Z",
-      "completedAt": "2026-09-30T10:23:52.984Z",
+      "id": "run-2026-10-07-nj07-auto",
+      "startedAt": "2026-10-07T10:58:17.797Z",
+      "completedAt": "2026-10-07T10:59:37.958Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 13,
-      "updatesCreated": 5,
+      "sourcesChecked": 16,
+      "updatesCreated": 8,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-09-30 for NJ-07. Sources checked: 13. LLM verifications: 14. 1 lastVerified bump on unchanged sources."
+      "summary": "Automated refresh completed 2026-10-07 for NJ-07. Sources checked: 16. LLM verifications: 17. 1 lastVerified bump on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-10-07T10:23:52.984Z",
+    "NEXT_REFRESH_AT": "2026-10-14T10:59:37.958Z",
     "WEEKLY_REPORT": {
       "id": "wr-nj07-2026-w24",
       "periodStart": "2026-06-08",

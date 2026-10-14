@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-10-07",
-  "updatedAt": "2026-10-07T10:59:37.958Z",
-  "exportedAt": "2026-10-07T11:14:42.075Z",
+  "dataAsOf": "2026-10-14",
+  "updatedAt": "2026-10-14T09:22:28.477Z",
+  "exportedAt": "2026-10-14T09:34:12.242Z",
   "districtCode": "NJ-07",
   "data": {
     "DISTRICT": {
@@ -91,7 +91,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-10-07",
+        "lastVerified": "2026-10-14",
         "confidence": "high",
         "notes": "Lt. Gov. Dr. Dale G. Caldwell is Secretary of State as of January 2026. Official voter portal: vote.nj.gov."
       },
@@ -1803,20 +1803,100 @@
         "relevanceSummary": "The Union County article explains the October 13 registration deadline and provides online, paper, and in-person registration methods. Union County includes communities within NJ-07, so the registration guidance is directly relevant to district voters.",
         "tag": "deadline",
         "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-0pb8rcd",
+        "headline": "Check your NJ voter registration now. Today is the deadline",
+        "sourceName": "NorthJersey.com",
+        "url": "https://www.northjersey.com/story/news/politics/elections/2026/10/13/register-to-vote-nj-election-deadline/92231629007/",
+        "publishedAt": "2026-10-13",
+        "relevanceSummary": "The article identifies New Jersey's voter-registration deadline, the October 24–November 1 early-voting period, and the October 27 mail-ballot application deadline, which apply statewide, including NJ-07.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-0460r9n",
+        "headline": "Do voter registrations expire in NJ? Today is registration deadline",
+        "sourceName": "Asbury Park Press",
+        "url": "https://www.app.com/story/news/2026/10/13/still-need-to-register-to-vote-in-nj-today-is-your-last-chance/92214591007/",
+        "publishedAt": "2026-10-13",
+        "relevanceSummary": "This statewide New Jersey voter-resource article explains the registration deadline, early-voting period, and when provisional ballots may be used, all of which apply to NJ-07 voters.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-0x2cyy6",
+        "headline": "Elecciones Nueva Jersey 2026: fechas clave para registrarse, votar anticipadamente y enviar boleta",
+        "sourceName": "Univision",
+        "url": "https://origin.syndicator2.univision.com/elecciones-nueva-jersey-2026-fechas-clave",
+        "publishedAt": "2026-10-12",
+        "relevanceSummary": "This Spanish-language statewide voter guide lists New Jersey deadlines for registration, early voting, mail-ballot applications, in-person applications, and ballot receipt, making it directly useful to NJ-07 voters.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-0w0nint",
+        "headline": "Maplewood & South Orange to Hold Late Night Voter Registration",
+        "sourceName": "Village Green",
+        "url": "https://villagegreennj.com/election/maplewood-south-orange-to-hold-late-night-voter-registration-october-13/",
+        "publishedAt": "2026-10-12",
+        "relevanceSummary": "The article describes extended municipal-clerk hours for voter registration, address or name changes, and mail-ballot applications, and lists statewide early-voting and mail-ballot deadlines. The local event is outside NJ-07, but the procedures are relevant to New Jersey voters.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-0k0wrp2",
+        "headline": "How Montclair State Students Can Vote in the 2026 Midterm Election",
+        "sourceName": "The Montclarion",
+        "url": "https://themontclarion.org/feature/how-montclair-state-students-can-vote-in-the-2026-midterm-election/",
+        "publishedAt": "2026-10-10",
+        "relevanceSummary": "The guide summarizes New Jersey's three voting methods, early-voting hours, mail-ballot application and return options, drop boxes, ballot-envelope steps, and receipt deadlines. These statewide procedures apply to NJ-07 voters.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-0l982bp",
+        "headline": "County counters election misinformation",
+        "sourceName": "Pascack Press",
+        "url": "https://thepressgroup.net/county-counters-election-misinformation/",
+        "publishedAt": "2026-10-10",
+        "relevanceSummary": "This New Jersey county-level article explains early voting, mail-ballot switching, provisional ballots, and in-person mail-ballot applications. Bergen County is outside NJ-07, so the procedural relevance is indirect but statewide rules may inform district voters.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-0xl5475",
+        "headline": "2026 General Election – Early Voting Information",
+        "sourceName": "Waldwick Borough",
+        "url": "https://www.waldwicknj.gov/news/post/11343/",
+        "publishedAt": "2026-10-09",
+        "relevanceSummary": "This New Jersey municipal notice provides the statewide 2026 general-election early-voting dates of October 24 through November 1, information relevant to voters planning when and how to cast a ballot.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-0agj4lr",
+        "headline": "Vote By Mail NJ",
+        "sourceName": "Merchantville",
+        "url": "https://merchantville.com/vote-by-mail-nj/",
+        "publishedAt": "2026-10-08",
+        "relevanceSummary": "The guide explains New Jersey mail-ballot eligibility, application deadlines, in-person application options, delivery deadlines, and the effect of requesting a mail ballot on voting at a polling place. These statewide procedures apply to NJ-07 voters.",
+        "tag": "voter-info",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-10-07-nj07-auto",
-      "startedAt": "2026-10-07T10:58:17.797Z",
-      "completedAt": "2026-10-07T10:59:37.958Z",
+      "id": "run-2026-10-14-nj07-auto",
+      "startedAt": "2026-10-14T09:21:35.260Z",
+      "completedAt": "2026-10-14T09:22:28.477Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 16,
+      "sourcesChecked": 13,
       "updatesCreated": 8,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-10-07 for NJ-07. Sources checked: 16. LLM verifications: 17. 1 lastVerified bump on unchanged sources."
+      "summary": "Automated refresh completed 2026-10-14 for NJ-07. Sources checked: 13. LLM verifications: 14. 1 lastVerified bump on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-10-14T10:59:37.958Z",
+    "NEXT_REFRESH_AT": "2026-10-21T09:22:28.477Z",
     "WEEKLY_REPORT": {
       "id": "wr-nj07-2026-w24",
       "periodStart": "2026-06-08",

@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-10-14",
-  "updatedAt": "2026-10-14T09:22:28.477Z",
-  "exportedAt": "2026-10-14T09:34:12.242Z",
+  "dataAsOf": "2026-10-21",
+  "updatedAt": "2026-10-21T09:12:53.540Z",
+  "exportedAt": "2026-10-21T09:24:06.189Z",
   "districtCode": "NJ-07",
   "data": {
     "DISTRICT": {
@@ -91,7 +91,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-10-14",
+        "lastVerified": "2026-10-21",
         "confidence": "high",
         "notes": "Lt. Gov. Dr. Dale G. Caldwell is Secretary of State as of January 2026. Official voter portal: vote.nj.gov."
       },
@@ -1883,20 +1883,50 @@
         "relevanceSummary": "The guide explains New Jersey mail-ballot eligibility, application deadlines, in-person application options, delivery deadlines, and the effect of requesting a mail ballot on voting at a polling place. These statewide procedures apply to NJ-07 voters.",
         "tag": "voter-info",
         "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-0wgzwf2",
+        "headline": "New Jersey election preview, 2026",
+        "sourceName": "Ballotpedia",
+        "url": "https://ballotpedia.org/New_Jersey_election_preview,_2026",
+        "publishedAt": "2026-10-20",
+        "relevanceSummary": "The statewide election preview addresses New Jersey polling-place identification requirements, a voter-procedure issue relevant to NJ-07 voters.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-0nas7gy",
+        "headline": "Hillsborough General Election Guide 2026: Who Is On The Ballot? Where To Vote?",
+        "sourceName": "Patch",
+        "url": "https://patch.com/new-jersey/hillsborough/hillsborough-general-election-guide-2026-who-ballot-where-vote",
+        "publishedAt": "2026-10-20",
+        "relevanceSummary": "The Somerset County guide provides early-voting logistics for Hillsborough and nearby NJ-07 voters, including six county locations and hours from October 24 through November 1.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nj07-0imgd4d",
+        "headline": "Attorney General Davenport Announces Safeguards to Protect the Right to Vote During the 2026 General Election",
+        "sourceName": "New Jersey Office of the Attorney General",
+        "url": "https://www.njoag.gov/attorney-general-davenport-announces-safeguards-to-protect-the-right-to-vote-during-the-2026-general-election/",
+        "publishedAt": "2026-10-19",
+        "relevanceSummary": "New Jersey officials outlined statewide voting procedures directly applicable to NJ-07 voters, including mail-ballot drop boxes and county-board delivery by 8 p.m. on Election Day, early voting from October 24 through November 1, and assigned polling places on November 3.",
+        "tag": "voter-resource",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-10-14-nj07-auto",
-      "startedAt": "2026-10-14T09:21:35.260Z",
-      "completedAt": "2026-10-14T09:22:28.477Z",
+      "id": "run-2026-10-21-nj07-auto",
+      "startedAt": "2026-10-21T09:11:54.286Z",
+      "completedAt": "2026-10-21T09:12:53.540Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 13,
-      "updatesCreated": 8,
+      "sourcesChecked": 16,
+      "updatesCreated": 3,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-10-14 for NJ-07. Sources checked: 13. LLM verifications: 14. 1 lastVerified bump on unchanged sources."
+      "summary": "Automated refresh completed 2026-10-21 for NJ-07. Sources checked: 16. LLM verifications: 17. 1 lastVerified bump on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-10-21T09:22:28.477Z",
+    "NEXT_REFRESH_AT": "2026-10-28T09:12:53.540Z",
     "WEEKLY_REPORT": {
       "id": "wr-nj07-2026-w24",
       "periodStart": "2026-06-08",
